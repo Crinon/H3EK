@@ -1,0 +1,11 @@
+kor\fixedsys-9.font
+kor\kor_malgb-15.font
+kor\kor_malgb-22.font
+kor\kor_malgb-22.font
+kor\kor_malgb-21.font
+kor\fixedsys-9.font
+kor\kor_malgb-16.font
+kor\larabie-10.font
+kor\kor_malgb-16.font
+kor\kor_malgb-15.font
+kor\kor_SdAT_term-16.font

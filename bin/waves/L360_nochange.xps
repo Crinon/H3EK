@@ -1,0 +1,15 @@
+<PresetXMLTree version="2">
+	<Preset Name="Untitled Preset" GenericType="L360">
+		<PresetHeader>
+			<PluginName>L360</PluginName>
+			<PluginVersion>6.0.5</PluginVersion>
+			<ReadOnly>false</ReadOnly>
+		</PresetHeader>
+		<PresetData Setup="CURRENT">
+			<Parameters Type="RealWorld">1 -12 -12 -12 -12 -6 -6 -6 -6 *
+* * 0 1 2 1 0 0 *
+* * * * * * * * *
+* * </Parameters>
+		</PresetData>
+	</Preset>
+</PresetXMLTree>

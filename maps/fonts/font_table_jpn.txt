@@ -1,0 +1,11 @@
+jpn\fixedsys-9.font
+jpn\jpn_DFGHSMGoth_anti_con-14.font
+jpn\jpn_DFGHSMGoth_anti_con-24.font
+jpn\jpn_DFGHSMGoth_anti_con-24.font
+jpn\jpn_DFGHSMGoth_anti_con-24.font
+jpn\fixedsys-9.font
+jpn\jpn_DFGHSMGoth_anti_con_hud-14.font
+jpn\jpn_DFHSMGoth_w4_terminal-10.font
+jpn\jpn_DFGHSMGoth_anti_con_hud-14.font
+jpn\jpn_DFGHSMGoth_anti_con-14.font
+jpn\jpn_DFSOGE5_terminal_14.font

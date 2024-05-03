@@ -1,0 +1,4 @@
+# This is the font import setting for English fonts for Halo 3
+
+# HUD and UI fonts
+FONT: file=conduit-18 icon=ui\font_icons\hud_18 system=0 height=18 weight=300 italics=0 typeface=ConduitITC^Light charset=0

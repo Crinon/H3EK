@@ -1,0 +1,13 @@
+#Font settings for all Japanese fonts.
+
+# system font (for debug text only)
+FONT: file=jpn\fixedsys-9 icon=none system=0 height=9 weight=400 italics=0 typeface=Fixedsys charset=0
+
+# HUD and UI fonts
+FONT: file=jpn\jpn_DFGHSMGoth_anti_con-14 icon=ui\font_icons\menu_16 system=0 height=14 weight=400 italics=0 typeface=DFGHSMGothic charset=1 scale=1 EAST-ASIAN extra_space=0 height=16 weight=300 italics=0 typeface=ConduitITC^Light charset=1
+FONT: file=jpn\jpn_DFGHSMGoth_anti_con_hud-14 icon=ui\font_icons\hud_18 system=0 height=14 weight=400 italics=0 typeface=DFGHSMGothic charset=1 scale=1 EAST-ASIAN extra_space=3 height=18 weight=300 italics=0 typeface=ConduitITC^Light charset=1
+FONT: file=jpn\jpn_DFGHSMGoth_anti_con-24 icon=none system=0 height=24 weight=400 italics=0 typeface=DFGHSMGothic charset=1 scale=1 EAST-ASIAN extra_space=8 height=32 weight=300 italics=0 typeface=ConduitITC^Light charset=1
+
+# terminals fonts
+FONT: file=jpn\jpn_DFHSMGoth_w4_terminal-10 icon=none system=0 height=10 weight=400 italics=0 typeface=DFHSMaruGothic-W4 charset=1 scale=1 EAST-ASIAN extra_space=0 height=10 weight=400 italics=0 typeface=Larabiefont charset=1
+FONT: file=jpn\jpn_DFSOGE5_terminal_14 icon=ui\font_icons\terminals_14 system=0 height=14 weight=400 italics=0 typeface=DFSoGei-W5 charset=1 scale=1 EAST-ASIAN extra_space=4 height=14 weight=400 italics=0 typeface=Pragmata charset=1

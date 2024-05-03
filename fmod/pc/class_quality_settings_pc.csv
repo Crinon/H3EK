@@ -1,0 +1,54 @@
+projectile impact,25
+projectile detonation,25
+projectile flyby,25
+projectile detonation lod,25
+weapon fire,25
+weapon ready,25
+weapon reload,25
+weapon empty,25
+weapon charge,25
+weapon overheat,25
+weapon idle,25
+weapon melee,25
+weapon animation,25
+object impacts,25
+particle impacts,25
+weapon fire lod,25
+water transitions,25
+lowpass effects,25
+footstep,25
+unit dialog,25
+unit animation,25
+unit unused1,25
+vehicle impact,25
+vehicle engine,25
+vehicle animation,25
+vehicle engine lod,25
+device door,25
+device unused0,25
+device machinery,25
+device stationary,25
+device unused2,25
+device unused3,25
+music,25
+ambient nature,25
+ambient machinery,25
+ambient stationary,25
+huge ass,25
+object looping,25
+cinematic music,25
+player unused,25
+player unused0,25
+ambient flock,25
+no pad,25
+no pad stationary,25
+scripted unused,25
+scripted_cortana_mission, 25
+scripted_cortana_gravemind_channel, 25
+scripted mission dialog,25
+scripted cinematic dialog,25
+scripted cinematic foley,25
+game event,25
+ui,25
+test,25
+multilingual test,25

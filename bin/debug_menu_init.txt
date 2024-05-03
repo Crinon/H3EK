@@ -1,0 +1,2081 @@
+<menu name = "Cheats">
+	<menu name = "Misc">
+		<item type = command name = "reach_moa_statue" variable = "drop objects\\characters\\ambient_life\\reach_moa_statue\\reach_moa_statue.scenery">
+		<item type = command name = "vanity1" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity1">
+		<item type = command name = "vanity2" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity2">
+		<item type = command name = "vanity3" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity3">
+		<item type = command name = "vanity4" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity4">
+		<item type = command name = "vanity5" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity5">
+		<item type = command name = "vanity6" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity6">
+		<item type = command name = "vanity7" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity7">
+		<item type = command name = "vanity8" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity8">
+		<item type = command name = "vanity9" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity9">
+		<item type = command name = "vanity10" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity10">
+		<item type = command name = "vanity11" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity11">
+		<item type = command name = "vanity12" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,chest_flair=vanity12">
+	</menu>
+	<menu name = "Armor: Eldo">
+		<item type = command name = "el_air_assault" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_air_assault,rightshoulder=el_air_assault,chest=el_air_assault,arms=el_air_assault,legs=el_air_assault,helmet=el_air_assault">
+		<item type = command name = "el_base" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_base,rightshoulder=el_base,chest=el_base,arms=el_base,legs=el_base,helmet=el_base">
+		<item type = command name = "el_chameleon" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_chameleon,rightshoulder=el_chameleon,chest=el_chameleon,arms=el_chameleon,legs=el_chameleon,helmet=el_chameleon">
+		<item type = command name = "el_demo" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_demo,rightshoulder=el_demo,chest=el_demo,arms=el_demo,legs=el_demo,helmet=el_demo">
+		<item type = command name = "el_dynamo" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_dynamo,rightshoulder=el_dynamo,chest=el_dynamo,arms=el_dynamo,legs=el_dynamo,helmet=el_dynamo">
+		<item type = command name = "el_enigma" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_enigma,rightshoulder=el_enigma,chest=el_enigma,arms=el_enigma,legs=el_enigma,helmet=el_enigma">
+		<item type = command name = "el_ghoul" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_ghoul,rightshoulder=el_ghoul,chest=el_ghoul,arms=el_ghoul,legs=el_ghoul,helmet=el_ghoul">
+		<item type = command name = "el_gungnir" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_gungnir,rightshoulder=el_gungnir,chest=el_gungnir,arms=el_gungnir,legs=el_gungnir,helmet=el_gungnir">
+		<item type = command name = "el_hammerhead" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_hammerhead,rightshoulder=el_hammerhead,chest=el_hammerhead,arms=el_hammerhead,legs=el_hammerhead,helmet=el_hammerhead">
+		<item type = command name = "el_lancer" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_lancer,rightshoulder=el_lancer,chest=el_lancer,arms=el_lancer,legs=el_lancer,helmet=el_lancer">
+		<item type = command name = "el_mongoose" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_mongoose,rightshoulder=el_mongoose,chest=el_mongoose,arms=el_mongoose,legs=el_mongoose,helmet=el_mongoose">
+		<item type = command name = "el_navigator" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_navigator,rightshoulder=el_navigator,chest=el_navigator,arms=el_navigator,legs=el_navigator,helmet=el_navigator">
+		<item type = command name = "el_nihard" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_nihard,rightshoulder=el_nihard,chest=el_nihard,arms=el_nihard,legs=el_nihard,helmet=el_nihard">
+		<item type = command name = "el_oracle" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_oracle,rightshoulder=el_oracle,chest=el_oracle,arms=el_oracle,legs=el_oracle,helmet=el_oracle">
+		<item type = command name = "el_poncho" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_poncho,rightshoulder=el_poncho,chest=el_poncho,arms=el_poncho,legs=el_poncho,helmet=el_poncho">
+		<item type = command name = "el_rhino" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief leftshoulder=el_rhino,rightshoulder=el_rhino,chest=el_rhino,arms=el_rhino,legs=el_rhino,helmet=el_rhino">
+		<item type = command name = "el_seeker" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_seeker,rightshoulder=el_seeker,chest=el_seeker,arms=el_seeker,legs=el_seeker,helmet=el_seeker">
+		<item type = command name = "el_warrior" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief legs_shared=el_trunks,leftshoulder=el_warrior,rightshoulder=el_warrior,chest=el_warrior,arms=el_warrior,legs=el_warrior,helmet=el_warrior">
+	</menu>
+	<menu name = "Armor: Humans">
+		<item type = command name = "legacy" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief body=legacy,helmet=legacy,arms=legacy,legs=legacy,leftshoulder=legacy,rightshoulder=legacy">
+		<item type = command name = "mp_mark_vi" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest_shared=base,body=el_techsuit_tier2">
+		<item type = command name = "raven_1" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief leftshoulder=raven_1,rightshoulder=raven_1,chest=raven_1,arms=raven_1,legs=raven_1,helmet=raven_1,chest_flair=raven_1">
+		<item type = command name = "raven_2" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief leftshoulder=raven_2,rightshoulder=raven_2,chest=raven_2,arms=raven_2,legs=raven_2,helmet=raven_2,chest_flair=raven_2">
+		<item type = command name = "raven_3" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief leftshoulder=raven_3,rightshoulder=raven_3,chest=raven_3,arms=raven_3,legs=raven_3,helmet=raven_3,chest_flair=raven_3">
+		<item type = command name = "raven_4" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief leftshoulder=raven_4,rightshoulder=raven_4,chest=raven_4,arms=raven_4,legs=raven_4,helmet=raven_4,chest_flair=raven_4">
+		<item type = command name = "belos_base" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=belos_base,arms=belos_base,legs=belos_base,leftshoulder=belos_base,rightshoulder=belos_base,helmet=belos_base">
+		<item type = command name = "belos_ornate" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=belos_ornate,arms=belos_ornate,legs=belos_ornate,leftshoulder=belos_base,rightshoulder=belos_base,helmet=belos_base">
+		<item type = command name = "blackguard_base" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=blackguard_base,arms=blackguard_base,legs=blackguard_base,leftshoulder=blackguard_base,rightshoulder=blackguard_base,helmet=blackguard_base">
+		<item type = command name = "blackguard_ornate" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=blackguard_ornate,arms=blackguard_ornate,legs=blackguard_ornate,leftshoulder=blackguard_base,rightshoulder=blackguard_base,helmet=blackguard_base">
+		<item type = command name = "drengr_base" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_base,arms=drengr_base,legs=drengr_base,leftshoulder=drengr_base,rightshoulder=drengr_base,helmet=drengr_base">
+		<item type = command name = "drengr_ornate" variable = "drop_permutation objects\\characters\\masterchief\\mp_masterchief\\mp_masterchief chest=drengr_ornate,arms=drengr_ornate,legs=drengr_ornate,leftshoulder=drengr_base,rightshoulder=drengr_base,helmet=drengr_base">
+	</menu>
+	<menu name = "Armor: Elites">
+		<item type = command name = "stock" variable = "drop objects\\characters\\elite\\mp_elite\\mp_elite">
+		<item type = command name = "legacy" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=legacy,head_shared=legacy,body=legacy,chest=legacy,chest_shared=legacy,leftshoulder=legacy,rightshoulder=legacy,arms=legacy,legs=legacy">
+		<item type = command name = "base" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=base,head_shared=empty,body=base,chest=base,chest_shared=base,leftshoulder=base,rightshoulder=base,arms=base,legs=base">
+		<item type = command name = "empty" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=empty,head_shared=base,body=base,chest=empty,chest_shared=empty,leftshoulder=empty,rightshoulder=empty,arms=empty,legs=empty">
+		<item type = command name = "el_a9" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=el_a9,head_shared=base,body=base,chest=el_a9,chest_shared=empty,leftshoulder=el_a9,rightshoulder=el_a9,arms=el_a9,legs=el_a9">
+		<item type = command name = "el_cerronsi" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=el_cerronsi,head_shared=base,body=base,chest=el_cerronsi,chest_shared=empty,leftshoulder=el_cerronsi,rightshoulder=el_cerronsi,arms=el_cerronsi,legs=el_cerronsi">
+		<item type = command name = "el_coronatum" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=el_coronatum,head_shared=base,body=base,chest=el_coronatum,chest_shared=empty,leftshoulder=el_coronatum,rightshoulder=el_coronatum,arms=el_coronatum,legs=el_coronatum">
+		<item type = command name = "el_eremias" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=el_eremias,head_shared=base,body=base,chest=el_eremias,chest_shared=empty,leftshoulder=el_eremias,rightshoulder=el_eremias,arms=el_eremias,legs=el_eremias">
+		<item type = command name = "el_gallotia" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=el_gallotia,head_shared=base,body=base,chest=el_gallotia,chest_shared=empty,leftshoulder=el_gallotia,rightshoulder=el_gallotia,arms=el_gallotia,legs=el_gallotia">
+		<item type = command name = "el_istirus" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=el_istirus,head_shared=base,body=base,chest=el_istirus,chest_shared=empty,leftshoulder=el_istirus,rightshoulder=el_istirus,arms=el_istirus,legs=el_istirus">
+		<item type = command name = "el_solare" variable = "drop_permutation objects\\characters\\elite\\mp_elite\\mp_elite head=el_solare,head_shared=base,body=base,chest=el_solare,chest_shared=empty,leftshoulder=el_solare,rightshoulder=el_solare,arms=el_solare,legs=el_solare">
+	</menu>
+	<menu name = "Drop Items">
+		<menu name = "Vehicles">
+			<item type = command name = "Ghost" variable = "drop objects\\vehicles\\ghost\\ghost.vehicle">
+			<item type = command name = "Mongoose" variable = "drop objects\\vehicles\\mongoose\\mongoose.vehicle">
+			<item type = command name = "Chopper" variable = "drop objects\\vehicles\\brute_chopper\\brute_chopper.vehicle">
+			<item type = command name = "Warthog" variable = "drop objects\\vehicles\\warthog\\warthog.vehicle">
+			<item type = command name = "Gauss Hog" variable = "drop_variant objects\\vehicles\\warthog\\warthog.vehicle gauss">
+			<item type = command name = "Mauler" variable = "drop objects\\vehicles\\mauler\\mauler.vehicle">
+			<item type = command name = "Scorpion" variable = "drop objects\\vehicles\\scorpion\\scorpion.vehicle">
+			<item type = command name = "Wraith" variable = "drop objects\\vehicles\\wraith\\wraith.vehicle">
+			<item type = command name = "Anti Air Wraith" variable = "drop_variant objects\\vehicles\\wraith\\wraith.vehicle anti_air">
+			<item type = command name = "Banshee" variable = "drop objects\\vehicles\\banshee\\banshee.vehicle">
+			<item type = command name = "Hornet" variable = "drop objects\\vehicles\\hornet\\hornet.vehicle">
+			<item type = command name = "Shade" variable = "drop objects\\vehicles\\shade\\shade.vehicle">
+			<item type = command name = "Pelican" variable = "drop objects\\vehicles\\pelican\\pelican.vehicle">
+			<item type = command name = "Phantom" variable = "drop objects\\vehicles\\phantom\\phantom.vehicle">
+		</menu>
+		<menu name = "One-handed Weapons">
+			<item type = command name = "Silenced SMG" variable = "drop objects\\weapons\\rifle\\smg_silenced\\smg_silenced.weapon">
+			<item type = command name = "Auto Mag" variable = "drop objects\\weapons\\pistol\\automag\\automag.weapon">
+			<item type = command name = "Magnum" variable = "drop objects\\weapons\\pistol\\magnum\\magnum.weapon">
+			<item type = command name = "Automag" variable = "drop objects\\weapons\\pistol\\automag\\automag.weapon">
+			<item type = command name = "SMG" variable = "drop objects\\weapons\\rifle\\smg\\smg.weapon">
+			<item type = command name = "Silenced SMG" variable = "drop objects\\weapons\\rifle\\smg_silenced\\smg_silenced.weapon">
+			<item type = command name = "Plasma Pistol" variable = "drop objects\\weapons\\pistol\\plasma_pistol\\plasma_pistol.weapon">
+			<item type = command name = "Plasma Rifle" variable = "drop objects\\weapons\\rifle\\plasma_rifle\\plasma_rifle.weapon">
+			<item type = command name = "Brute Plasma Rifle" variable = "drop objects\\weapons\\rifle\\plasma_rifle_red\\plasma_rifle_red.weapon">
+			<item type = command name = "Spike Rifle" variable = "drop objects\\weapons\\rifle\\spike_rifle\\spike_rifle.weapon">
+			<item type = command name = "Excavator" variable = "drop objects\\weapons\\pistol\\excavator\\excavator.weapon">
+		</menu>
+		<menu name = "Two-handed Weapons">
+			<item type = command name = "Assault Rifle" variable = "drop objects\\weapons\\rifle\\assault_rifle\\assault_rifle.weapon">
+			<item type = command name = "Needler" variable = "drop objects\\weapons\\pistol\\needler\\needler.weapon">
+			<item type = command name = "Battle Rifle" variable = "drop objects\\weapons\\rifle\\battle_rifle\\battle_rifle.weapon">
+			<item type = command name = "Shotgun" variable = "drop objects\\weapons\\rifle\\shotgun\\shotgun.weapon">
+			<item type = command name = "Carbine" variable = "drop objects\\weapons\\rifle\\covenant_carbine\\covenant_carbine.weapon">
+		</menu>
+		<menu name = "Specialty Weapons">
+			<item type = command name = "Brute Shot" variable = "drop objects\\weapons\\support_low\\brute_shot\\brute_shot.weapon">
+			<item type = command name = "Beam gun" variable = "drop objects\\weapons\\support_low\\sentinel_gun\\sentinel_gun.weapon">
+			<item type = command name = "Sniper Rifle" variable = "drop objects\\weapons\\rifle\\sniper_rifle\\sniper_rifle.weapon">
+			<item type = command name = "Beam Rifle" variable = "drop objects\\weapons\\rifle\\beam_rifle\\beam_rifle.weapon">
+			<item type = command name = "Rocket Launcher" variable = "drop objects\\weapons\\support_high\\rocket_launcher\\rocket_launcher.weapon">
+			<item type = command name = "Energy Sword" variable = "drop objects\\weapons\\melee\\energy_blade\\energy_blade.weapon">
+			<item type = command name = "Gravity Hammer" variable = "drop objects\\weapons\\melee\\gravity_hammer\\gravity_hammer.weapon">
+			<item type = command name = "Flak Cannon" variable = "drop objects\\weapons\\support_high\\flak_cannon\\flak_cannon.weapon">
+			<item type = command name = "Pump Laser" variable = "drop objects\\weapons\\support_high\\spartan_laser\\spartan_laser.weapon">
+			<item type = command name = "Golf Club" variable = "drop objects\\levels\\dlc\\shared\\golf_club\\golf_club.weapon">
+		</menu>
+		<menu name = "Turret Weapons">
+			<item type = command name = "Plasma Cannon" variable = "drop objects\\weapons\\turret\\plasma_cannon\\plasma_cannon.weapon">
+			<item type = command name = "Plasma Cannon Vehicle" variable = "drop objects\\weapons\\turret\\plasma_cannon\\plasma_cannon.vehicle">
+			<item type = command name = "Machinegun" variable = "drop objects\\weapons\\turret\\machinegun_turret\\machinegun_turret.weapon">
+			<item type = command name = "Machinegun Vehicle" variable = "drop objects\\weapons\\turret\\machinegun_turret\\machinegun_turret.vehicle">
+			<item type = command name = "Flamethrower" variable = "drop objects\\weapons\\turret\\flamethrower\\flamethrower.weapon">
+			<item type = command name = "Flamethrower Vehicle" variable = "drop objects\\weapons\\turret\\flamethrower\\flamethrower.vehicle">
+			<item type = command name = "Missile Pod" variable = "drop objects\\weapons\\turret\\missile_pod\\missile_pod.weapon">
+			<item type = command name = "Chaingun stand_alone" variable = "drop_variant objects\\vehicles\\turret_standalone\\turret_standalone.vehicle chaingun">
+			<item type = command name = "Gauss stand_alone" variable = "drop_variant objects\\vehicles\\turret_standalone\\turret_standalone.vehicle default">
+		</menu>
+		<menu name = "Grenades">
+			<item type = command name = "Frag Grenade" variable = "drop objects\\weapons\\grenade\\frag_grenade\\frag_grenade.equipment">
+			<item type = command name = "Plasma Grenade" variable = "drop objects\\weapons\\grenade\\plasma_grenade\\plasma_grenade.equipment">
+			<item type = command name = "Claymore Grenade" variable = "drop objects\\weapons\\grenade\\claymore_grenade\\claymore_grenade.equipment">
+			<item type = command name = "Firebomb Grenade" variable = "drop objects\\weapons\\grenade\\firebomb_grenade\\firebomb_grenade.equipment">
+		</menu>
+		<menu name = "Equipment">
+			<item type = command name = "Auto-Turret" variable = "drop objects\\equipment\\autoturret_equipment\\autoturret_equipment.equipment">
+			<item type = command name = "Bubble Shield" variable = "drop objects\\equipment\\bubbleshield_equipment\\bubbleshield_equipment.equipment">
+			<item type = command name = "Gravlift" variable = "drop objects\\equipment\\gravlift_equipment\\gravlift_equipment.equipment">
+			<item type = command name = "Instantlover" variable = "drop objects\\equipment\\instantcover_equipment\\instantcover_equipment.equipment">
+			<item type = command name = "Invincibility" variable = "drop objects\\equipment\\invincibility_equipment\\invincibility_equipment.equipment">
+			<item type = command name = "Invisibility" variable = "drop objects\\equipment\\invisibility_equipment\\invisibility_equipment.equipment">
+			<item type = command name = "Jammer" variable = "drop objects\\equipment\\jammer_equipment\\jammer_equipment.equipment">
+			<item type = command name = "Powerdrain" variable = "drop objects\\equipment\\powerdrain_equipment\\powerdrain_equipment.equipment">
+			<item type = command name = "Regenerator" variable = "drop objects\\equipment\\regenerator_equipment\\regenerator_equipment.equipment">
+			<item type = command name = "Superflare" variable = "drop objects\\equipment\\superflare_equipment\\superflare_equipment.equipment">
+			<item type = command name = "Tripmine" variable = "drop objects\\equipment\\tripmine_equipment\\tripmine_equipment.equipment">
+			<item type = command name = "Vortex" variable = "drop objects\\equipment\\vortex_equipment\\vortex_equipment.equipment">
+		</menu>
+		<menu name = "Multiplayer Weapons">
+			<item type = command name = "Flag" variable = "drop objects\\weapons\\multiplayer\\flag\\flag.weapon">
+			<item type = command name = "Ball" variable = "drop objects\\weapons\\multiplayer\\ball\\ball.weapon">
+			<item type = command name = "Head" variable = "drop objects\\weapons\\multiplayer\\ball\\head.weapon">
+			<item type = command name = "Bomb" variable = "drop objects\\weapons\\multiplayer\\assault_bomb\\assault_bomb.weapon">
+			<item type = command name = "Juggernaut Powerup" variable = "drop objects\\weapons\\multiplayer\\ball\\juggernaut_powerup.weapon">
+		</menu>
+		<menu name = "Bipeds">
+			<item type = command name = "Chief" variable = "drop objects\\characters\\masterchief\\masterchief">
+			<item type = command name = "Arbiter" variable = "drop objects\\characters\\dervish\\dervish">
+			<item type = command name = "Brute" variable = "drop objects\\characters\\brute\\brute ">
+			<menu name = "Covenant">
+				<item type = command name = "Grunt" variable = "drop objects\\characters\\grunt\\grunt">
+				<item type = command name = "Jackal" variable = "drop objects\\characters\\jackal\\jackal">
+				<item type = command name = "Hunter" variable = "drop objects\\characters\\hunter\\hunter">
+				<item type = command name = "Truth" variable = "drop objects\\characters\\truth\\truth">
+				<item type = command name = "Bugger" variable = "drop objects\\characters\\bugger\\bugger">
+			</menu>
+			<menu name ="Human/Elite">
+				<item type = command name = "Elite" variable = "drop objects\\characters\\elite\\elite">
+				<item type = command name = "Marine" variable = "drop objects\\characters\\marine\\marine">
+				<item type = command name = "Female Marine" variable = "drop objects\\characters\\marine\\marine_female\\marine_female">
+			</menu>
+			<menu name ="Flood">
+				<item type = command name = "Tank Form" variable = "drop objects\\characters\\flood_tank\\flood_tank">
+				<item type = command name = "Stalker Form" variable = "drop objects\\characters\\flood_stalker\\flood_stalker">
+				<item type = command name = "Ranged Form" variable = "drop objects\\characters\\flood_ranged\\flood_ranged">
+				<item type = command name = "Infection Form" variable = "drop objects\\characters\\flood_infection\\flood_infection">
+				<item type = command name = "Gravemind" variable = "drop objects\\characters\\gravemind\\gravemind">
+				<item type = command name = "Carrier" variable = "drop objects\\characters\\floodcarrier\\floodcarrier">
+				<item type = command name = "Combat Elite" variable = "drop objects\\characters\\floodcombat_elite\\floodcombat_elite">
+				<item type = command name = "Combat Human" variable = "drop objects\\characters\\floodcombat_human\\floodcombat_human">
+				<item type = command name = "Combat Brute" variable = "drop objects\\characters\\floodcombat_brute\\floodcombat_brute">
+			</menu>
+			<menu name ="Cinematic">
+				<item type = command name = "Cortana" variable = "drop objects\\characters\\cortana\\cortana">
+				<item type = command name = "Miranda" variable = "drop objects\\characters\\miranda\\miranda">
+			</menu>
+			<menu name ="Forerunner">
+				<item type = command name = "Guardian" variable = "drop objects\\characters\\guardian\\guardian">
+			</menu>
+		</menu>
+		<menu name = "Material Samples">
+				<item type = command name = "brushed aluminum" variable = "drop levels\\reference\\material_samples\\sample_objects\\brushed_aluminum\\brushed_aluminum.scenery">
+				<item type = command name = "cement" variable = "drop levels\\reference\\material_samples\\sample_objects\\cement\\cement.scenery">
+				<item type = command name = "chrome" variable = "drop levels\\reference\\material_samples\\sample_objects\\chrome\\chrome.scenery">
+				<item type = command name = "cloth" variable = "drop levels\\reference\\material_samples\\sample_objects\\cloth\\cloth.scenery">
+				<item type = command name = "Covenant hologram" variable = "drop levels\\reference\\material_samples\\sample_objects\\covenant_hologram\\covenant_hologram.scenery">
+				<item type = command name = "Covenant metal dull" variable = "drop levels\\reference\\material_samples\\sample_objects\\covenant_metal_dull\\covenant_metal_dull.scenery">
+				<item type = command name = "Covenant metal shiny" variable = "drop levels\\reference\\material_samples\\sample_objects\\covenant_metal_shiny\\covenant_metal_shiny.scenery">
+				<item type = command name = "dirt" variable = "drop levels\\reference\\material_samples\\sample_objects\\dirt\\dirt.scenery">
+				<item type = command name = "Flood skin" variable = "drop levels\\reference\\material_samples\\sample_objects\\flood_skin\\flood_skin.scenery">
+				<item type = command name = "Forerunner hologram" variable = "drop levels\\reference\\material_samples\\sample_objects\\forerunner_hologram\\forerunner_hologram.scenery">
+				<item type = command name = "Forerunner metal" variable = "drop levels\\reference\\material_samples\\sample_objects\\forerunner_metal\\forerunner_metal.scenery">
+				<item type = command name = "Forerunner metal floor" variable = "drop levels\\reference\\material_samples\\sample_objects\\forerunner_metal_floor\\forerunner_metal_floor.scenery">
+				<item type = command name = "Forerunner metal tech" variable = "drop levels\\reference\\material_samples\\sample_objects\\forerunner_metal_tech\\forerunner_metal_tech.scenery">
+				<item type = command name = "glass" variable = "drop levels\\reference\\material_samples\\sample_objects\\glass\\glass.scenery">
+				<item type = command name = "grass" variable = "drop levels\\reference\\material_samples\\sample_objects\\grass\\grass.scenery">
+				<item type = command name = "Human metal armor" variable = "drop levels\\reference\\material_samples\\sample_objects\\human_metal_armor\\human_metal_armor.scenery">
+				<item type = command name = "Human plastic" variable = "drop levels\\reference\\material_samples\\sample_objects\\human_plastic\\human_plastic.scenery">
+				<item type = command name = "Human rubber" variable = "drop levels\\reference\\material_samples\\sample_objects\\human_rubber\\human_rubber.scenery">
+				<item type = command name = "Human skin" variable = "drop levels\\reference\\material_samples\\sample_objects\\human_skin\\human_skin.scenery">
+				<item type = command name = "ice" variable = "drop levels\\reference\\material_samples\\sample_objects\\ice\\ice.scenery">
+				<item type = command name = "mud" variable = "drop levels\\reference\\material_samples\\sample_objects\\mud\\mud.scenery">
+				<item type = command name = "plant" variable = "drop levels\\reference\\material_samples\\sample_objects\\plant\\plant.scenery">
+				<item type = command name = "rock" variable = "drop levels\\reference\\material_samples\\sample_objects\\rock\\rock.scenery">
+				<item type = command name = "sand" variable = "drop levels\\reference\\material_samples\\sample_objects\\sand\\sand.scenery">
+				<item type = command name = "snow" variable = "drop levels\\reference\\material_samples\\sample_objects\\snow\\snow.scenery">
+				<item type = command name = "steel" variable = "drop levels\\reference\\material_samples\\sample_objects\\steel\\steel.scenery">
+				<item type = command name = "water" variable = "drop levels\\reference\\material_samples\\sample_objects\\water\\water.scenery">
+				<item type = command name = "wood" variable = "drop levels\\reference\\material_samples\\sample_objects\\wood\\wood.scenery">
+				<item type = command name = "material texture" variable = "drop levels\\reference\\material_samples\\sample_objects\\material_texture\\material_texture.scenery">
+		</Menu>
+		<menu name = "Giants">
+			<item type = command name = "Scarab" variable = "drop objects\\giants\\scarab\\scarab.giant">
+		</menu>
+		<menu name = "Reference F/X">
+			<item type = command name = "Spartan Laser Impact" variable = "drop fx\\reference\\spartan_laser_impact.scenery">
+		</menu>
+		<item type = command name = "Reflection and Lighting Reference Object" variable = "drop objects\\reference\\reflection_lighting_test\\reflection_lighting_test.biped">
+	</menu>
+	<item type = command name = "camera_control_enable" variable = "camera_control true">
+	<item type = command name = "camera_control_disable" variable = "camera_control false">
+	<item type = command name = "camera_player0_set_mode_flying" variable = "camera_set_mode 0 2">
+	<item type = command name = "camera_player0_set_mode_first_person" variable = "camera_set_mode 0 3">
+	<item type = command name = "debug camera ON" variable = "director_debug_camera true">
+	<item type = command name = "debug camera OFF" variable = "director_debug_camera false">
+	<item type = command name = "debug_camera_save" variable = "debug_camera_save">
+	<item type = command name = "debug_camera_load" variable = "debug_camera_load">
+	<item type = global name = "soft_ceilings_disable" variable = "soft_ceilings_disable">
+	<item type = command name = "teleport to camera" variable = "cheat_teleport_to_camera">
+	<item type = global name = "deathless player" variable = "cheat_deathless_player">
+	<item type = global name = "omnipotent" variable = "cheat_omnipotent">
+	<item type = global name = "infinite ammo" variable = "cheat_infinite_ammo">
+	<item type = global name = "bottomless clip" variable = "cheat_bottomless_clip">
+	<item type = global name = "bump possession" variable = "cheat_bump_possession">
+	<item type = global name = "jetpack" variable = "cheat_jetpack">
+	<item type = global name = "medusa" variable = "cheat_medusa">
+	<item type = command name = "erase all AI" variable = "ai_erase_all">
+	<item type = command name = "active camouflage ON" variable = "cheat_active_camouflage 1">
+	<item type = command name = "active camouflage OFF" variable = "cheat_active_camouflage 0">
+	<item type = global name = "invisible player" variable = "ai_debug_invisible_player">
+</menu>
+
+<menu name = "Debug">
+	<item type = global name = "game speed" inc = 0.5 min = 0.0 max = 5.0 variable = "game_speed">
+	<item type = global name = "game speed (fine tuning)" inc = 0.1 min = 0.0 max = 5.0 variable = "game_speed">
+	<item type = global name = "UI speed" inc = 0.1 min = 0.0 max = 5.0 variable = "ui_time_scale">
+	<menu name = "HDR">
+		<item type = global name = "enable hdr bloom scaling" variable = "use_hdr_bloom_scaling">
+		<item type = global name = "hdr bloom scale" inc = 0.1 min = 0.0 max = 1.0 variable = "hdr_bloom_intensity">
+		<item type = global name = "hdr bloom scale (fine tuning)" inc = 0.05 min = 0.0 max = 1.0 variable = "hdr_bloom_intensity">
+	</menu>
+	<menu name = "Timing">
+		<item type = global name = "enable memory mirror on event" variable = "use_memory_mirror_events">
+		<item type = global name = "sleep until vblank" variable = "sleep_for_vblank">
+	</menu>
+	<item type = global name = "debug objects" variable = "debug_objects">
+	<menu name = "debug objects options">
+		<item type = global name = "player_only" variable = "debug_objects_player_only">
+		<item type = global name = "animation" variable = "debug_objects_animation">
+		<item type = global name = "show model nodes" variable = "render_model_nodes">
+		<item type = global name = "bounding spheres" variable = "debug_objects_bounding_spheres">
+		<item type = global name = "render dynamic bounding spheres" variable = "debug_objects_dynamic_render_bounding_spheres">
+		<item type = global name = "collision models" variable = "debug_objects_collision_models">
+		<item type = global name = "physics models" variable = "debug_objects_physics_models">
+		<item type = global name = "expensive physics" variable = "debug_objects_expensive_physics">
+		<item type = global name = "names" variable = "debug_objects_names">
+		<item type = global name = "sound spheres" variable = "debug_objects_sound_spheres">
+		<menu name = "debug objects physics">
+			<item type = global name = "mass" variable = "debug_objects_mass">
+			<item type = global name = "vehicle physics" variable = "debug_objects_vehicle_physics">
+			<item type = global name = "vehicle suspension" variable = "debug_objects_vehicle_suspension">
+			<item type = global name = "constraints" variable = "debug_objects_constraints">
+			<item type = global name = "contact points" variable = "debug_objects_contact_points">
+			<item type = global name = "ground plane" variable = "debug_objects_ground_plane">
+			<item type = global name = "early movers" variable = "debug_objects_early_movers">
+			<item type = global name = "water physics model" variable = "debug_objects_water_physics">
+		</menu>
+		<menu name = "debug objects units">
+			<item type = global name = "unit vectors" variable = "debug_objects_unit_vectors">
+			<item type = global name = "melees" variable = "debug_objects_unit_melee">
+			<item type = global name = "seats" variable = "debug_objects_unit_seats">
+			<item type = global name = "biped autoaim pills" variable = "debug_objects_biped_autoaim_pills">
+			<item type = global name = "pathfinding spheres" variable = "debug_objects_pathfinding">
+			<item type = global name = "model targets" variable = "debug_objects_model_targets">
+			<item type = global name = "movement mode" variable = "debug_objects_movement_mode">
+			<item type = global name = "phyiscs control node" variable = "debug_objects_physics_control_node">
+			<item type = global name = "unit pathfinding surface" variable = "debug_objects_unit_pathfinding_surface">
+		</menu>
+	</menu>
+	<item type = global name = "render terminal text" variable = "terminal_render">
+	<item type = global name = "render other terminal text" variable = "console_status_string_render">
+	<item type = command name = "error geometry hide all" variable = "error_geometry_hide_all">
+	<item type = command name = "error geometry show all" variable = "error_geometry_show_all">
+	<item type = command name = "error geometry show pathfinding breakers" variable = "begin (error_geometry_hide_all)(error_geometry_show \"open edge\")">
+	<item type = global name = "render model markers" variable = "render_model_markers">
+	<item type = global name = "render freeze" variable = "debug_render_freeze">
+	<item type = global name = "objects dump memory stats" variable = "debug_objects_dump_memory_stats">
+	<item type = command name = "version" variable = "version">
+	<item type = command name = "events display ON" variable = "events_suppress_console_display 0">
+	<item type = command name = "events display OFF" variable = "events_suppress_console_display 1">
+	<menu name = "Damage">
+		<item type = global name = "debug damage" variable = "debug_damage">
+		<item type = global name = "debug damage radius" variable = "debug_damage_radius">
+		<item type = global name = "debug damage verbose" variable = "debug_damage_verbose">
+		<item type = global name = "reflexive damage" variable = "cheat_reflexive_damage_effects">
+	</menu>
+	<menu name = "Weapons">
+		<item type = global name = "debug weapons" variable = "debug_weapons">
+		<item type = global name = "debug triggers" variable = "debug_weapons_triggers">
+		<item type = global name = "debug barrels" variable = "debug_weapons_barrels">
+		<item type = global name = "debug magazines" variable = "debug_weapons_magazines">
+		<item type = global name = "debug primary" variable = "debug_weapons_primary">
+		<item type = global name = "debug secondary" variable = "debug_weapons_secondary">
+	</menu>
+	<menu name = "Projectiles">
+		<item type = global name = "debug projectiles" variable = "debug_projectiles">
+		<item type = command name = "projectile translation ALL" variable = "event_log_category objects:projectile:translate verbose">
+		<item type = command name = "projectile translation FAILS" variable = "event_log_category objects:projectile:translate warning">
+	</menu>
+	<menu name = "Collision">
+		<item type = global name = "debug collision" variable = "collision_debug">
+		<item type = global name = "collision damage debug" variable = "collision_damage_debug">
+		<item type = global name = "collision debug all objects" variable = "collision_debug_flag_objects">
+		<item type = global name = "collision debug projectiles" variable = "collision_debug_flag_objects_projectiles">
+	</menu>
+	<menu name = "Physics">
+		<item type = global name = "physics debug" variable = "physics_debug">
+		<item type = global name = "render stats" variable = "havok_display_stats">
+		<item type = global name = "impacts debug" variable = "impacts_debug">
+		<item type = global name = "proxies debug" variable = "proxies_debug">
+		<item type = global name = "enable impact effects" variable = "havok_play_impact_effects">
+	</menu>
+	<menu name = "Environment">
+		<item type = global name = "debug structure" variable = "debug_structure">
+		<item type = global name = "debug structure automatic" variable = "debug_structure_automatic">
+		<item type = global name = "debug structure seam edges" variable = "debug_structure_seam_edges">
+		<item type = global name = "debug structure seams" variable = "debug_structure_seams">
+		<item type = global name = "debug structure slip surfaces" variable = "debug_structure_slip_surfaces">
+		<item type = global name = "debug structure soft ceilings" variable = "debug_structure_soft_ceilings">
+		<menu name = "debug_structure_soft_ceilings options">
+			<item type = global name = "show biped ceilings" variable = "debug_structure_soft_ceilings_biped">
+			<item type = global name = "show vehicle ceilings" variable = "debug_structure_soft_ceilings_vehicle">
+			<item type = global name = "show huge vehicle ceilings" variable = "debug_structure_soft_ceilings_huge_vehicle">
+			<item type = global name = "show camera ceilings" variable = "debug_structure_soft_ceilings_camera">
+			<item type = global name = "test ceilings with observer" variable = "debug_structure_soft_ceilings_test_observer">
+		</menu>
+		<item type = global name = "debug structure soft kill" variable = "debug_structure_soft_kill">
+		<item type = global name = "debug structure cluster skies" variable = "debug_structure_cluster_skies">
+		<item type = global name = "debug structure invisible" variable = "debug_structure_invisible">
+		<item type = global name = "debug structure water" variable = "debug_structure_water">
+		<item type = global name = "debug zone set critical portals" variable = "debug_zone_set_critical_portals">
+		<item type = global name = "debug instanced geometry" variable = "debug_instanced_geometry">
+		<item type = global name = "render portals" variable = "visibility_debug_portals">
+		<item type = global name = "render freeze" variable = "debug_render_freeze">
+		<item type = global name = "render environment" variable = "render_environment">
+		<item type = global name = "render poops" variable = "render_instanced_geometry">
+	</menu>
+	<menu name = "Saved Films">
+		<item type = command name = "show timestamp ON" variable = "saved_films_show_timestamp true">
+		<item type = command name = "show timestamp OFF" variable = "saved_films_show_timestamp false">
+		<item type = command name = "playback speed 0.5x" variable = "saved_film_set_playback_game_speed 0.5">
+		<item type = command name = "playback speed 1.0x" variable = "saved_film_set_playback_game_speed 1">
+		<item type = command name = "playback speed 1.5x" variable = "saved_film_set_playback_game_speed 1.5">
+		<item type = command name = "playback speed 2.0x" variable = "saved_film_set_playback_game_speed 2">
+		<item type = command name = "playback speed 3.0x" variable = "saved_film_set_playback_game_speed 3">
+		<item type = command name = "set_playback_game_speed 30hz tick" variable = "saved_film_set_playback_game_speed (/ 1.0 30.0)">
+		<item type = command name = "set_playback_game_speed 60hz tick" variable = "saved_film_set_playback_game_speed (/ 1.0 60.0)">
+	</menu>
+	<menu name = "Interface">
+		<item type = global name = "debug chud crosshair" variable = "chud_debug_crosshair">
+		<item type = global name = "debug camera projection" variable = "debug_camera_projection">
+		<item type = global name = "debug aim assist targets" variable = "debug_aim_assist_targets_enabled">
+		<item type = global name = "debug render 4x3 bounds" variable = "render_debug_show_4x3_bounds">
+	</menu>
+	<menu name = "Campaign Metagame">
+		<item type = global name = "debug_campaign_metagame" variable = "debug_campaign_metagame">
+		<item type = global name = "chud_debug_metagame" variable = "chud_debug_metagame">
+		<item type = command name = "metagame timer ON" variable = "campaign_metagame_time_pause 1">
+		<item type = command name = "metagame timer OFF" variable = "campaign_metagame_time_pause 0">
+	</menu>
+
+	<menu name = "Streaming Cache">
+		<item type = global name = "page cache display enabled" variable = "page_cache_enable_status_lines">
+	</menu>
+
+	<item type = global name = "debug_player_network_aiming" variable = "debug_player_network_aiming">
+	<item type = global name = "debug_objects_biped_melee_in_range (req. debug_objects)" variable = "debug_objects_biped_melee_in_range">
+	<item type = global name = "debug_aim_assist_targets_enabled" variable = "debug_aim_assist_targets_enabled">
+	<item type = global name = "debug_aim_assist_targets_names" variable = "debug_aim_assist_targets_names">
+	<item type = global name = "debug_aim_assist_vectors" variable = "debug_aim_assist_vectors">
+</menu>
+
+<menu name = "Mission">
+	<menu name = "Load Mission">
+		<item type = command name = "005_intro" variable = "game_start levels\\solo\\005_intro\\005_intro">
+		<item type = command name = "010_jungle" variable = "game_start levels\\solo\\010_jungle\\010_jungle">
+		<item type = command name = "010_jungle_empty" variable = "game_start levels\\solo\\010_jungle\\010_jungle_empty">
+		<item type = command name = "020_base" variable = "game_start levels\\solo\\020_base\\020_base">
+		<item type = command name = "020_base_empty" variable = "game_start levels\\solo\\020_base\\020_base_empty">
+		<item type = command name = "030_outskirts" variable = "game_start levels\\solo\\030_outskirts\\030_outskirts">
+		<item type = command name = "030_outskirts_empty" variable = "game_start levels\\solo\\030_outskirts\\030_outskirts_empty">
+		<item type = command name = "040_voi" variable = "game_start levels\\solo\\040_voi\\040_voi">
+		<item type = command name = "040_voi_empty" variable = "game_start levels\\solo\\040_voi\\040_voi_empty">
+		<item type = command name = "050_floodvoi" variable = "game_start levels\\solo\\050_floodvoi\\050_floodvoi">
+		<item type = command name = "050_floodvoi_empty" variable = "game_start levels\\solo\\050_floodvoi\\050_floodvoi_empty">
+		<item type = command name = "070_waste" variable = "game_start levels\\solo\\070_waste\\070_waste">
+		<item type = command name = "070_waste_empty" variable = "game_start levels\\solo\\070_waste\\070_waste_empty">
+		<item type = command name = "100_citadel" variable = "game_start levels\\solo\\100_citadel\\100_citadel">
+		<item type = command name = "100_citadel_empty" variable = "game_start levels\\solo\\100_citadel\\100_citadel_empty">
+		<item type = command name = "110_hc" variable = "game_start levels\\solo\\110_hc\\110_hc">
+		<item type = command name = "110_hc_empty" variable = "game_start levels\\solo\\110_hc\\110_hc_empty">
+		<item type = command name = "120_halo" variable = "game_start levels\\solo\\120_halo\\120_halo">
+		<item type = command name = "120_halo_empty" variable = "game_start levels\\solo\\120_halo\\120_halo_empty">
+		<item type = command name = "03a_oldmombasa" variable = "game_start levels\\solo\\03a_oldmombasa\\03a_oldmombasa">
+		<item type = command name = "05a_deltaapproach" variable = "game_start levels\\solo\\05a_deltaapproach\\05a_deltaapproach">
+		<item type = command name = "06b_floodzone" variable = "game_start levels\\solo\\06b_floodzone\\06b_floodzone">
+		<item type = command name = "130_epilogue" variable = "game_start levels\\solo\\130_epilogue\\130_epilogue">
+		<item type = command name = "concrete" variable = "game_start \\levels\\solo\\030_outskirts\\e3\\e3">
+			<menu name = "Jungle Insertion Points">
+				<item type = command name = "Crater" variable = "ins_chief_crater">
+				<item type = command name = "Jungle Walk" variable = "ins_jungle_walk">
+				<item type = command name = "Grunt Camp" variable = "ins_grunt_camp">
+				<item type = command name = "Path A" variable = "ins_path_a">
+				<item type = command name = "Substation" variable = "ins_substation">
+				<item type = command name = "Path B" variable = "ins_path_b">
+				<item type = command name = "Brute Ambush" variable = "ins_brute_ambush">
+				<item type = command name = "Dam" variable = "ins_dam">
+			</menu>
+			<menu name = "Base Insertion Points">
+				<item type = command name = "Command Center Start" variable = "ins_command_center_start">
+				<item type = command name = "Highway A" variable = "ins_highway_a">
+				<item type = command name = "Hanger A" variable = "ins_hangar_a">
+				<item type = command name = "Loop01 Return" variable = "ins_loop01_return">
+				<item type = command name = "Loop02 Begin" variable = "ins_loop02_begin">
+				<item type = command name = "Motorpool" variable = "ins_motorpool">
+				<item type = command name = "Sewers" variable = "ins_sewers">
+				<item type = command name = "Barracks" variable = "ins_barracks">
+				<item type = command name = "Evac Hanger" variable = "ins_evac_hangar">
+				<item type = command name = "Cortana Highway" variable = "ins_cortana_highway">
+				<item type = command name = "Self Destruct" variable = "ins_self_destruct">
+				<item type = command name = "Exit Run" variable = "ins_exit_run">
+				<item type = command name = "Hanger A Return" variable = "ins_hangar_a_return">
+			</menu>
+			<menu name = "Outskirts Insertion Points">
+				<item type = command name = "Elevator" variable = "ins_elevator">
+				<item type = command name = "Cavern" variable = "ins_cavern">
+				<item type = command name = "Drive" variable = "ins_drive">
+				<item type = command name = "Pond" variable = "ins_pond">
+				<item type = command name = "Crash" variable = "ins_crash">
+				<item type = command name = "Bridge" variable = "ins_bridge">
+				<item type = command name = "Garage" variable = "ins_garage">
+				<item type = command name = "Gathering Storm" variable = "ins_gathering_storm">
+				<item type = command name = "Tether" variable = "ins_tether">
+				<item type = command name = "Round" variable = "ins_round">
+				<item type = command name = "Exit" variable = "ins_exit">
+				<item type = command name = "Video" variable = "ins_video">
+			</menu>
+			<menu name = "Voi Insertion Points">
+				<item type = command name = "Intro" variable = "ins_intro">
+				<item type = command name = "Scarab" variable = "ins_scarab">
+			</menu>
+			<menu name = "Flood Voi Insertion Points">
+				<item type = command name = "Worker Town" variable = "ins_workertown">
+				<item type = command name = "Warehouse" variable = "ins_warehouse">
+				<item type = command name = "Lakebed B" variable = "ins_lakebed_b">
+				<item type = command name = "Factory Arm B" variable = "ins_factory_b">
+				<item type = command name = "Lakebed A" variable = "ins_lakebed_a">
+				<item type = command name = "Flood Ship" variable = "ins_floodship">
+			</menu>
+			<menu name = "Waste Insertion Points">
+				<item type = command name = "Landing Zone" variable = "ins_landing_zone">
+				<item type = command name = "Alpha" variable = "ins_alpha">
+				<item type = command name = "Floor 1" variable = "ins_floor_1">
+				<item type = command name = "Bowl 1" variable = "ins_bowl_1">
+				<item type = command name = "Bowl 2" variable = "ins_bowl_2">
+				<item type = command name = "Forerunner Passage" variable = "ins_forerunner_passage">
+				<item type = command name = "Exploration" variable = "ins_exploration">
+				<item type = command name = "Sentinal Defense" variable = "ins_sentinel_defense">
+				<item type = command name = "Anti Air Wraiths" variable = "ins_antiair_wraiths">
+				<item type = command name = "Frigate Landing" variable = "ins_frigate_landing">
+				<item type = command name = "Lead the Army" variable = "ins_lead_the_army">
+				<item type = command name = "Defend the Wall" variable = "ins_defend_wall">
+				<item type = command name = "Lightbridge" variable = "ins_lightbridge">
+				<item type = command name = "Big Battle" variable = "ins_big_battle">
+				<item type = command name = "After Big Battle" variable = "ins_after_big_battle">
+				<item type = command name = "Floor 2" variable = "ins_floor_2">
+				<item type = command name = "Floor 3" variable = "ins_floor_3">
+				<item type = command name = "Floor 4" variable = "ins_floor_4">
+				<item type = command name = "Floor 5" variable = "ins_floor_5">
+			</menu>
+			<menu name = "Citadel Insertion Points">
+				<item type = command name = "Beach" variable = "ins_beach">
+				<item type = command name = "Hornets" variable = "ins_hornets">
+				<item type = command name = "Citadel Adv" variable = "ins_citadel_adv">
+			</menu>
+			<menu name = "Halo">
+				<item type = command name = "Crash Site" variable = "ins_crash_site">
+				<item type = command name = "Control Room" variable = "ins_exit_run">
+				<item type = command name = "Trench Run" variable = "ins_trench_run">
+			</menu>
+	</menu>
+	<menu name = "Load Cinematic BSP">
+		<item type = command name = "010_jungle Cinematic" variable = "game_start levels\\solo\\010_jungle\\010_jungle_empty_cinematic">
+		<item type = command name = "020_base Cinematic" variable = "game_start levels\\solo\\020_base\\020_base_empty_cinematic">
+		<item type = command name = "030_outskirts Cinematic" variable = "game_start levels\\solo\\030_outskirts\\030_outskirts_empty_cinematic">
+		<item type = command name = "040_voi Cinematic" variable = "game_start levels\\solo\\040_voi\\040_voi_empty_cinematic">
+		<item type = command name = "050_floodvoi Cinematic" variable = "game_start levels\\solo\\050_floodvoi\\050_floodvoi_empty_cinematic">
+		<item type = command name = "055_shadow Cinematic" variable = "game_start levels\\solo\\055_shadow\\055_shadow">
+		<item type = command name = "070_waste Cinematic" variable = "game_start levels\\solo\\070_waste\\070_waste_empty_cinematic">
+		<item type = command name = "100_citadel Cinematic" variable = "game_start levels\\solo\\100_citadel\\100_citadel_empty_cinematic">
+		<item type = command name = "110_hc Cinematic" variable = "game_start levels\\solo\\110_hc\\110_hc_empty_cinematic">
+		<item type = command name = "120_halo Cinematic" variable = "game_start levels\\solo\\120_halo\\120_halo_empty_cinematic">
+		<item type = command name = "130_epilogue Cinematic" variable = "game_start levels\\solo\\130_epilogue\\130_epilogue">
+		<item type = command name = "concrete" variable = "game_start \\levels\\solo\\030_outskirts\\e3\\e3">
+	</menu>
+	<menu name = "Settings">
+		<item type = command name = "Cooperative 1" variable = "game_coop_players 1">
+		<item type = command name = "Cooperative 2" variable = "game_coop_players 2">
+		<item type = command name = "Difficulty Easy" variable = "game_difficulty easy">
+		<item type = command name = "Difficulty Normal" variable = "game_difficulty normal">
+		<item type = command name = "Difficulty Heroic" variable = "game_difficulty heroic">
+		<item type = command name = "Difficulty Legendary" variable = "game_difficulty legendary">
+	</menu>
+	<item type = command name = "Map Reset" variable = "map_reset_random">
+	<item type = command name = "Game Save" variable = "game_save_immediate">
+	<item type = command name = "Game Revert" variable = "game_revert">
+	<item type = command name = "core save" variable = "core_save">
+	<item type = command name = "core load" variable = "core_load">
+	<item type = command name = "Debug Scripting ON" variable = "debug_scripting 1">
+	<item type = command name = "Debug Scripting OFF" variable = "debug_scripting 0">
+	<menu name = "Test Map">
+		<item type = command name = "animation test" variable = "game_start levels\\temp\\animation_test\\animation_test">
+		<item type = command name = "vignette test" variable = "game_start levels\\temp\\vignette_test\\vignette_test">
+		<item type = command name = "activity test" variable = "game_start levels\\temp\\activity_test\\activity_test">
+	</menu>
+	<menu name = "AI">
+		<item type = command name = "ai enable" variable = "ai_enable 1">
+		<item type = command name = "ai disable" variable = "ai_enable 0">
+		<item type = global name = "render orders" variable = "ai_render_orders">
+		<item type = global name = "render behavior stack all" variable = "ai_render_behavior_stack_all">
+		<item type = global name = "render command scripts" variable = "ai_render_command_scripts">
+		<item type = global name = "render pathfinding" variable = "ai_render_paths">
+		<item type = global name = "render non-walkable sectors" variable = "ai_render_non_walkable_sectors">
+		<item type = global name = "render active object hints" variable = "ai_render_object_hints">
+		<item type = global name = "render all object hints" variable = "ai_render_object_hints_all">
+	</menu>
+	<zone_set_menu name = "Switch Zone Set">
+	</zone_set_menu>
+</menu>
+
+<menu name = "Graphics">
+	<item type = global name = "GPU events" variable = "render_debug_pix_events">
+	<menu name = "Resolution upscaling">
+		<item type = global name = "0-Disabled/1-FSR/2-Bilinear" inc = 1 min = 0 max = 2 variable = "upscaling_current_state">
+		<item type = global name = "FSR preset (0-Sharpener/1-UltraQuality/2-Quality/3-Balanced/4-Perfomance)" inc = 1 min = 0 max = 4 variable = "FSR_current_preset">
+		<item type = global name = "Resolution multiplier" inc = 0.01 min = 0.5 max = 1.0 variable = "FSR_resolution_multiplier">
+		<item type = global name = "Mip bias" inc = 0.04 min = -1.0 max = 0.0 variable = "FSR_mip_bias">
+		<item type = global name = "Sharpness" inc = 0.05 min = 0.0 max = 2.0 variable = "FSR_sharpness">
+	</menu>
+	<menu name = "Lighting">
+		<item type = global name = "exposure bias 0.1" inc = 0.1 min = -20.0 max = 20.0 variable = "render_exposure_stops">
+		<item type = global name = "exposure bias 1.0" inc = 1.0 min = -20.0 max = 20.0 variable = "render_exposure_stops">
+		<item type = global name = "display exposure" variable = "display_exposure">
+		<item type = global name = "lock exposure" variable = "render_exposure_lock">
+		<item type = global name = "layers: 0)all 1)lighting 2)color 3)spec 4)normal" inc = 1 min = 0 max = 4 variable = "render_debug_toggle_default_lightmaps_texaccum">
+		<item type = global name = "default lighting" variable = "render_default_lighting">
+		<item type = global name = "debug lights" variable = "debug_lights">
+		<menu name = "Sample Lighting">
+			<item type = command name = "OFF" variable = "render_debug_light_probes 0">
+			<item type = command name = "Sample #1" variable = "render_debug_light_probes 1">
+			<item type = command name = "Sample #2" variable = "render_debug_light_probes 2">
+			<item type = command name = "Sample #3" variable = "render_debug_light_probes 3">
+			<item type = command name = "Sample #4" variable = "render_debug_light_probes 4">
+			<item type = command name = "Sample #5" variable = "render_debug_light_probes 5">
+			<item type = command name = "Sample #6" variable = "render_debug_light_probes 6">
+			<item type = command name = "Sample #7" variable = "render_debug_light_probes 7">
+			<item type = command name = "Sample #8" variable = "render_debug_light_probes 8">
+			<item type = command name = "Sample #9" variable = "render_debug_light_probes 9">
+			<item type = command name = "Sample #10" variable = "render_debug_light_probes 10">
+			<item type = command name = "Sample #11" variable = "render_debug_light_probes 11">
+			<item type = command name = "Sample #12" variable = "render_debug_light_probes 12">
+			<item type = command name = "Sample #13" variable = "render_debug_light_probes 13">
+			<item type = command name = "Sample #14" variable = "render_debug_light_probes 14">
+			<item type = command name = "Sample #15" variable = "render_debug_light_probes 15">
+		</menu>
+		<menu name = "Place Dynamic Lights">
+			<item type = command name = "Drop Possess-able Light" variable = "drop objects\\reference\\possess_light\\possess_light">
+			<item type = command name = "Drop .5 wu light" variable = "drop objects\\levels\\shared\\simple_marker\\simple_marker_p5wu">
+			<item type = command name = "Drop 1 wu light" variable = "drop objects\\levels\\shared\\simple_marker\\simple_marker_1wu">
+			<item type = command name = "Drop 5 wu light" variable = "drop objects\\levels\\shared\\simple_marker\\simple_marker">
+			<item type = command name = "Drop 20 wu light" variable = "drop objects\\levels\\shared\\simple_marker\\simple_marker_20wu">
+			<item type = command name = "Drop 50 wu light" variable = "drop objects\\levels\\shared\\simple_marker\\simple_marker_50wu">
+			<item type = command name = "Drop 100 wu light" variable = "drop objects\\levels\\shared\\simple_marker\\simple_marker_100wu">
+		</menu>
+		<menu name = "Object Lighting">
+			<item type = global name = "disable PRT" variable = "render_disable_prt">
+			<item type = global name = "debug object lighting" variable = "render_debug_object_lighting">
+			<item type = global name = "bounce light intensity" inc = 1 min = 0 max = 100 variable = "render_bounce_light_intensity">
+			<item type = global name = "show bounce light only" variable = "render_bounce_light_only">
+		</menu>
+		<item type = global name = "lightmap pointsample" variable = "lightmap_pointsample">
+		<item type = global name = "lightmap debug" variable = "collision_debug_lightmaps">
+	</menu>
+	<menu name = "Rasterizer">
+		<item type = global name = "LDR surface mode: 7e3(1)/gamma2(2)/xRGB(3)" inc = 1 min = 1 max = 3 variable = "render_surface_LDR_mode">
+		<item type = global name = "HDR surface mode: 7e3(1)/gamma2(2)/xRGB(3)" inc = 1 min = 1 max = 3 variable = "render_surface_HDR_mode">
+		<item type = global name = "HDR multiplier (stops)" inc = 0.5 min = 0 max = 16 variable = "render_HDR_target_stops">
+		<item type = global name = "postprocess" variable = "render_postprocess">
+		<item type = global name = "base" variable = "render_accum">
+		<item type = global name = "bloom" variable = "render_bloom">
+		<item type = global name = "bling" variable = "render_bling">
+		<item type = global name = "persist" variable = "render_persist">
+		<item type = global name = "downsample" variable = "render_downsample">
+		<item type = global name = "bloom source" variable = "render_bloom_source">
+		<item type = global name = "show alpha" variable = "render_show_alpha">
+		<item type = global name = "depth render: 0)off 1)facets 2)edges" inc = 1 min = -2 max = 2 variable = "render_debug_depth_render">
+		<item type = global name = "depth render RED" inc = 0.5 min = -20 max = 20 variable = "render_debug_depth_render_scale_r">
+		<item type = global name = "depth render GRN" inc = 0.5 min = -20 max = 20 variable = "render_debug_depth_render_scale_g">
+		<item type = global name = "depth render BLU" inc = 0.5 min = -20 max = 20 variable = "render_debug_depth_render_scale_b">
+		<item type = global name = "MSAA mode: 0)none 1)2x 2)4x" inc = 1 min = 0 max = 2 variable = "tiling">
+		<item type = global name = "Force tiling enabled" variable = "render_force_tiling">
+	</menu>
+	<menu name = "Debug">
+		<item type = command name = "Show HUD" variable = "hud_show 1">
+		<item type = command name = "Hide HUD" variable = "hud_show 0">
+		<item type = global name = "render objects" variable = "render_objects">
+		<item type = global name = "render environment" variable = "render_environment">
+		<item type = global name = "render poops" variable = "render_instanced_geometry">
+		<item type = global name = "render decorators" variable = "render_decorators">
+		<item type = global name = "render transparents" variable = "render_transparents">
+		<item type = global name = "flash missing high-res textures" variable="render_debug_low_res_textures">
+	</menu>
+	<menu name = "Effects">
+		<item type = global name = "particle render debug" variable = "particle_render_debug">
+		<item type = global name = "particle render debug spheres" variable = "particle_render_debug_spheres">
+		<item type = global name = "decal disable" variable = "decal_disable">
+		<item type = global name = "effect priority cutoff" inc = 1 min = 0 max = 2 variable = "effect_priority_cutoff">
+	</menu>
+	<menu name = "Shadows">
+		<item type = global name = "lightmap shadows" variable = "render_lightmap_shadows">
+		<item type = global name = "screenspace shadows" variable = "render_shadow_screenspace">
+		<item type = global name = "debug shadow bounds" variable = "render_shadow_bounds">
+		<item type = global name = "debug shadow bounds solid" variable = "render_shadow_bounds_solid">
+		<item type = global name = "shadow opaque" variable = "render_shadow_opaque">
+		<item type = global name = "histencil debug" variable = "render_shadow_histencil">
+		<item type = global name = "objectspace stencil clip" variable = "render_shadow_objectspace_stencil_clip">
+		<item type = global name = "force old" variable = "render_shadow_force_old">
+		<item type = global name = "force fancy" variable = "render_shadow_force_fancy">
+		<item type = global name = "force high rez" variable = "render_shadow_hires">
+	</menu>
+	<menu name = "Depth of Field">
+		<item type = command name = "depth of field ON" variable = "render_depth_of_field_enable true">
+		<item type = command name = "depth of field OFF" variable = "render_depth_of_field_enable false">
+		<item type = command name = "depth of field 1-2" variable = "render_depth_of_field 1.0 2.0 3.0 10">
+		<item type = command name = "depth of field 2-4" variable = "render_depth_of_field 2.0 4.0 4.0 10">
+		<item type = command name = "depth of field 4-8" variable = "render_depth_of_field 4.0 8.0 5.0 10">
+	</menu>
+	<menu name = "Fog">
+		<item type = command name = "Enable render atmosphere fog" variable = "render_atmosphere_fog 1">
+		<item type = command name = "Disable render atmosphere fog" variable = "render_atmosphere_fog 0">
+	</menu>
+	<menu name = "Display Tweak">
+		<item type = global name = "gamma curve correction: none(0)/xenon(1)/7e3(2)" inc = 1 min = 0 max = 2 variable = "render_buffer_gamma_curve">
+		<item type = global name = "screen gamma" inc = 0.05 min = 1.0 max = 3.0 variable= "render_screen_gamma">
+		<item type = global name = "apply curve shoulder" variable = "render_tone_curve">
+		<item type = global name = "color balance: R" inc = 0.02 min = 0.0 max = 2.0 variable= "render_color_balance_red">
+		<item type = global name = "color balance: G" inc = 0.02 min = 0.0 max = 2.0 variable= "render_color_balance_green">
+		<item type = global name = "color balance: B" inc = 0.02 min = 0.0 max = 2.0 variable= "render_color_balance_blue">
+		<item type = global name = "black level: R" inc = 0.02 min = -1.0 max = 1.0 variable= "render_black_level_red">
+		<item type = global name = "black level: G" inc = 0.02 min = -1.0 max = 1.0 variable= "render_black_level_green">
+		<item type = global name = "black level: B" inc = 0.02 min = -1.0 max = 1.0 variable= "render_black_level_blue">
+	</menu>
+	<menu name = "User Interface">
+		<item type = global name = "screenspace pixel center" inc = 0.5 min = -0.5 max = 0.5 variable= "render_screenspace_center">
+	</menu>
+	<menu name = "Decorators">
+		<item type = global name = "render toggle" variable= "render_decorators">
+		<item type = global name = "debug groups" variable= "render_decorator_bounds">
+		<item type = global name = "debug bounds" variable= "render_decorator_spheres">
+		<item type = global name = "perf count" variable= "render_decorator_counts">
+	</menu>
+</menu>
+
+<menu name = "Performance">
+	<item type = global name = "multi-thread enabled" variable = "render_thread_enable">
+	<item type = global name = "display framerate" variable = "display_framerate">
+	<item type = global name = "freeze visibility" variable = "debug_render_freeze">
+	<item type = global name = "debug portals" variable = "visibility_debug_portals">
+	<item type = global name = "profile display (off, gpu, cpu)" inc = 1 min = 0 max = 2 variable = "Profile Display - NOT IMPLEMENTED YET">
+	<item type = command name = "overdraw effects (z compare on)" variable = "rasterizer_overdraw_z">
+	<item type = command name = "overdraw (z compare off)" variable = "rasterizer_overdraw">
+	<item type = command name = "layer overdraw effects (z compare on)" variable = "rasterizer_layers_overdraw_z">
+	<item type = command name = "layer overdraw (z compare off)" variable = "rasterizer_layers_overdraw">
+	<item type = global name = "render profile" variable = "Render Profile - NOT IMPLEMENTED YET">
+	<item type = global name = "infinite framerate" variable = "Infinite Framerate - NOT IMPLEMENTED YET">
+	<item type = global name = "render model costs" variable = "render_model_cost">
+</menu>
+
+<menu name = "Test">
+	<item type = command name = "main_menu" variable = "main_menu">
+	<item type = command name = "Play Last Saved Film" variable = "saved_film_play_last">
+	<item type = command name = "bug now auto (no minidump)" variable = "bug_now_auto false">
+	<item type = command name = "bug now auto (minidump)" variable = "bug_now_auto true">
+	<item type = command name = "enable automatic core uploads (every 3 min)" variable = "core_regular_upload_to_debug_server true">
+	<item type = command name = "disable automatic core uploads" variable = "core_regular_upload_to_debug_server false">
+	<item type = command name = "Map Info" variable = "map_info">
+	<item type = command name = "Enable Text Bounds" variable = "gui_debug_text_bounds_global 1">
+	<item type = command name = "Disable Text Bounds" variable = "gui_debug_text_bounds_global 0">
+	<item type = command name = "Show Title Safe Bounds" variable = "ui_debug_show_title_safe_bounds 1">
+	<item type = command name = "Hide Title Safe Bounds" variable = "ui_debug_show_title_safe_bounds 0">
+	<menu name= "Language Override">
+		<item type= command name= "  English" variable= "language_set english">
+		<item type= command name= "  Japanese" variable= "language_set japanese">
+		<item type= command name= "  German" variable= "language_set german">
+		<item type= command name= "  French" variable= "language_set french">
+		<item type= command name= "  Spanish" variable= "language_set spanish">
+		<item type= command name= "  Mexican Spanish" variable= "language_set mexican">
+		<item type= command name= "  Italian" variable= "language_set italian">
+		<item type= command name= "  Korean" variable= "language_set korean">
+		<item type= command name= "  Traditional Chinese" variable= "language_set chinese-traditional">
+		<item type= command name= "  Simplified Chinese" variable= "language_set chinese-simplified">
+		<item type= command name= "  Portuguese" variable= "language_set portuguese">
+		<item type= command name= "  Polish" variable= "language_set polish">
+	</menu>
+	<item type = command name = "Disable Encounter Info" variable = "Disable Encounter Info - NOT IMPLEMENTED YET">
+	<item type = command name = "--==CRASH NOW==-" variable = "crash now">
+</menu>
+
+<menu name = "Multiplayer">
+	<menu name = "Load Map">
+		<item type = command name = "Chill" variable = "game_start levels\\multi\\chill\\chill">
+		<item type = command name = "Construct" variable = "game_start levels\\multi\\construct\\construct">
+		<item type = command name = "Cyberdyne" variable = "game_start levels\\multi\\cyberdyne\\cyberdyne">
+		<item type = command name = "Deadlock" variable = "game_start levels\\multi\\deadlock\\deadlock">
+		<item type = command name = "Guardian" variable = "game_start levels\\multi\\guardian\\guardian">
+		<item type = command name = "Isolation" variable = "game_start levels\\multi\\isolation\\isolation">
+		<item type = command name = "Monkey Mountain" variable = "game_start levels\\multi\\monkey_mountain\\monkey_mountain">
+		<item type = command name = "Riverworld" variable = "game_start levels\\multi\\riverworld\\riverworld">
+		<item type = command name = "Salvation" variable = "game_start levels\\multi\\salvation\\salvation">
+		<item type = command name = "Shrine" variable = "game_start levels\\multi\\shrine\\shrine">
+		<item type = command name = "Snowbound" variable = "game_start levels\\multi\\snowbound\\snowbound">
+		<item type = command name = "Warthog Inc" variable = "game_start levels\\multi\\warthog_inc\\warthog_inc">
+		<item type = command name = "Zanzibar" variable = "game_start levels\\multi\\zanzibar\\zanzibar">
+		<item type = command name = "Bunkerworld" variable = "game_start levels\\multi\\bunkerworld\\bunkerworld">
+		<item type = command name = "Burial Mounds" variable = "game_start levels\\multi\\burial_mounds\\burial_mounds">
+		<item type = command name = "Coagulation" variable = "game_start levels\\multi\\coagulation\\coagulation">
+		<item type = command name = "Lockout" variable = "game_start levels\\multi\\lockout\\lockout">
+		<item type = command name = "Docks" variable = "game_start levels\\multi\\docks\\docks">
+		<item type = command name = "Pump Haus" variable = "game_start levels\\multi\\pump_haus\\pump_haus">
+		<item type = command name = "Shaft" variable = "game_start levels\\multi\\shaft\\shaft">
+	</menu>
+	<menu name = "Voice">
+		<item type = command name = "Voice Diag Enable" variable = "net_voice_diagnostics 1">
+		<item type = command name = "Voice Diag Disable" variable = "net_voice_diagnostics 0">
+	</menu>
+	<menu name = "Spawning">
+		<item type = command name = "Influencers Enable" variable = "debug_spawning_influencers 1">
+		<item type = command name = "Weapon Influences Enable" variable= "debug_spawning_weapon_influences 1">
+		<item type = command name = "Proximity Enemy Bias Enable" variable= "debug_spawning_proximity_enemy 1">
+		<item type = command name = "Proximity Enemy Forbid Enable" variable= "debug_spawning_proximity_forbid 1">
+		<item type = command name = "Respawn Zones Enable" variable = "debug_spawning_respawn_zones 1">
+		<item type = command name = "Moving Vehicle Enable" variable= "debug_spawning_moving_vehicle 1">
+		<item type = command name = "Dangerous Projectile Enable" variable= "debug_spawning_dangerous_projectiles 1">
+		<item type = command name = "Ally Bias Enable" variable= "debug_spawning_teammates 1">
+		<item type = command name = "Random Influence Enable" variable= "debug_spawning_random_influence 1">
+		<item type = command name = "Natural Weight Enable" variable= "debug_spawning_natural_weight 1">
+		<item type = command name = "Nominal Weight Enable" variable= "debug_spawning_nominal_weight 1">
+			<menu name = "Spawning Disable">
+				<item type = command name = "Influencers Disable" variable = "debug_spawning_influencers 0">
+				<item type = command name = "Weapon Influences Disable" variable= "debug_spawning_weapon_influences 0">
+				<item type = command name = "Proximity Enemy Bias Disable" variable= "debug_spawning_proximity_enemy 0">
+				<item type = command name = "Proximity Enemy Forbid Disable" variable= "debug_spawning_proximity_forbid 0">
+				<item type = command name = "Respawn Zones Disable" variable = "debug_spawning_respawn_zones 0">
+				<item type = command name = "Moving Vehicle Disable" variable= "debug_spawning_moving_vehicle 0">
+				<item type = command name = "Dangerous Projectile Disable" variable= "debug_spawning_dangerous_projectiles 0">
+				<item type = command name = "Ally Bias Disable" variable= "debug_spawning_teammates 0">
+				<item type = command name = "Random Influence Disable" variable= "debug_spawning_random_influence 0">
+				<item type = command name = "Natural Weight Disable" variable= "debug_spawning_natural_weight 0">
+				<item type = command name = "Nominal Weight Disable" variable= "debug_spawning_nominal_weight 0">
+			</menu>
+	</menu>
+	<menu name = "Settings">
+		<item type = command name = "Splitscreen 1" variable = "game_splitscreen 1">
+		<item type = command name = "Splitscreen 2" variable = "game_splitscreen 2">
+		<item type = command name = "Splitscreen 3" variable = "game_splitscreen 3">
+		<item type = command name = "Splitscreen 4" variable = "game_splitscreen 4">
+		<item type = command name = "Difficulty Easy" variable = "net_test_campaign_difficulty 0">
+		<item type = command name = "Difficulty Normal" variable = "net_test_campaign_difficulty 1">
+		<item type = command name = "Difficulty Heroic" variable = "net_test_campaign_difficulty 2">
+		<item type = command name = "Difficulty Legendary" variable = "net_test_campaign_difficulty 3">
+		<item type = command name = "Game Slayer" variable = "game_multiplayer slayer">
+		<item type = command name = "Game King" variable = "game_multiplayer king">
+		<item type = command name = "Game Oddball" variable = "game_multiplayer oddball">
+		<item type = command name = "Game Juggernaut" variable = "game_multiplayer juggernaut">
+		<item type = command name = "Game CTF" variable = "game_multiplayer ctf">
+		<item type = command name = "Game Invasion" variable = "game_multiplayer invasion">
+		<item type = command name = "Game Territories" variable = "game_multiplayer territories">
+		<item type = command name = "Game Sandbox" variable = "game_multiplayer sandbox">
+	</menu>
+	<menu name = "Playtest Map">
+		<item type = command name = "MP Box Test" variable = "net_test_map_name levels\\test\\multiplayer_box\\multiplayer_box">
+		<item type = command name = "Chill" variable = "net_test_map_name levels\\multi\\chill\\chill">
+		<item type = command name = "Construct" variable = "net_test_map_name levels\\multi\\construct\\construct">
+		<item type = command name = "Cyberdyne" variable = "net_test_map_name levels\\multi\\cyberdyne\\cyberdyne">
+		<item type = command name = "Deadlock" variable = "net_test_map_name levels\\multi\\deadlock\\deadlock">
+		<item type = command name = "Guardian" variable = "net_test_map_name levels\\multi\\guardian\\guardian">
+		<item type = command name = "Isolation" variable = "net_test_map_name levels\\multi\\isolation\\isolation">
+		<item type = command name = "Monkey Mountain" variable = "net_test_map_name levels\\multi\\monkey_mountain\\monkey_mountain">
+		<item type = command name = "Riverworld" variable = "net_test_map_name levels\\multi\\riverworld\\riverworld">
+		<item type = command name = "Salvation" variable = "net_test_map_name levels\\multi\\salvation\\salvation">
+		<item type = command name = "Shrine" variable = "net_test_map_name levels\\multi\\shrine\\shrine">
+		<item type = command name = "Snowbound" variable = "net_test_map_name levels\\multi\\snowbound\\snowbound">
+		<item type = command name = "Warthog Inc" variable = "net_test_map_name levels\\multi\\warthog_inc\\warthog_inc">
+		<item type = command name = "Bunkerworld" variable = "net_test_map_name levels\\multi\\bunkerworld\\bunkerworld">
+	</menu>
+	<menu name = "Playtest Variant">
+		<menu name = "Slayer Variant">
+			<item type = command name = "Slayer" variable = "net_test_variant slayer">
+			<item type = command name = "Team Slayer" variable = "net_test_variant team_slayer">
+			<item type = command name = "Ladder Slayer" variable = "net_test_variant ladder_slayer">
+			<item type = command name = "Underdogs" variable = "net_test_variant underdogs">
+		</menu>
+		<menu name = "Oddball Variant">
+			<item type = command name = "Oddball" variable = "net_test_variant oddball">
+			<item type = command name = "Team Oddball" variable = "net_test_variant team_oddball">
+			<item type = command name = "Oddball Killah" variable = "net_test_variant oddball_killah">
+			<item type = command name = "Superball" variable = "net_test_variant superball">
+			<item type = command name = "Tankball" variable = "net_test_variant tankball">
+			<item type = command name = "Speedball" variable = "net_test_variant speedball">
+		</menu>
+		<menu name = "CTF Variant">
+			<item type = command name = "CTF Classic" variable = "net_test_variant ctf_classic">
+			<item type = command name = "One Flag CTF" variable = "net_test_variant one_flag_ctf">
+		</menu>
+		<menu name = "Infection Variant">
+			<item type = command name = "Infection" variable = "net_test_variant infection_default">
+			<item type = command name = "Last Man Standing" variable = "net_test_variant infection_last_man_standing">
+			<item type = command name = "Infection A" variable = "net_test_variant infection_a">
+			<item type = command name = "Infection B" variable = "net_test_variant infection_b">
+		</menu>
+	</menu>
+	<menu name = "Net_sim">
+		<item type = global name = "Net Sim on off" variable = "net_sim">
+		<menu name = "Latency">
+			<item type = global name = "Net Sim Latency (ms)" inc = 10 min = 0 max = 500 variable = "net_sim_latency">
+			<item type = global name = "Net Sim Latency Period (ms)" inc = 100 min = 0 max = 30000 variable = "net_sim_latency_period">
+			<item type = global name = "Net Sim Latency wander (ms)" inc = 10 min = 0 max = 500 variable = "net_sim_latency_wander">
+			<item type = global name = "Net Sim Latency random (ms)" inc = 10 min = 0 max = 500 variable = "net_sim_latency_random">
+			<item type = global name = "Net Sim Latency spike amount (ms)" inc = 10 min = 0 max = 500 variable = "net_sim_spike_amount">
+			<item type = global name = "Net Sim Latency spike chance (.1%)" inc = 10 min = 0 max = 1000 variable = "net_sim_spike_chance">
+			<item type = global name = "Net Sim Latency spike duration (ms)" inc = 10 min = 0 max = 500 variable = "net_sim_spike_duration">
+		</menu>
+		<menu name = "Bandwidth">
+			<item type = global name = "Net Sim upstream Bandwidth (kbps)" inc = 20 min = 0 max = 1000 variable = "net_sim_bandwidth_up_rate">
+			<item type = global name = "Net Sim upstream Bandwidth buffer (kB)" inc = 10 min = 0 max = 250 variable = "net_sim_bandwidth_up_buffer">
+			<item type = global name = "Net Sim downstream Bandwidth (kbps)" inc = 20 min = 0 max = 1000 variable = "net_sim_bandwidth_down_rate">
+			<item type = global name = "Net Sim downstream Bandwidth buffer (kB)" inc = 10 min = 0 max = 250 variable = "net_sim_bandwidth_down_buffer">
+		</menu>
+		<menu name = "Packet Loss">
+			<item type = global name = "Net Sim drop (.1%)" inc = 5 min = 0 max = 1000 variable = "net_sim_drop">
+			<item type = global name = "Net Sim drop spike amount (.1%)" inc = 5 min = 0 max = 1000 variable = "net_sim_dropspike_amount">
+			<item type = global name = "Net Sim drop spike chance (.1%)" inc = 5 min = 0 max = 1000 variable = "net_sim_dropspike_chance">
+			<item type = global name = "Net Sim drop spike duration (ms)" inc = 100 min = 0 max = 10000 variable = "net_sim_dropspike_duration">
+		</menu>
+		<item type = command name = "Net Sim Latency spike now" variable = "net_sim_spike_now">
+		<item type = command name = "Net Sim drop spike now" variable = "net_sim_dropspike_now">
+		<item type = command name = "Reset simulation state" variable = "net_sim_reset">
+	</menu>
+	<menu name = "Net Status">
+		<item type = global name = "Channels" variable = "net_status_channels">
+		<item type = global name = "connections" variable = "net_status_connections">
+		<item type = global name = "Link" variable = "net_status_link">
+		<item type = global name = "Memory" variable = "net_status_memory">
+		<item type = global name = "Message Queues" variable = "net_status_message_queues">
+		<item type = global name = "Observer" variable = "net_status_observer">
+		<item type = global name = "Sessions" variable = "net_status_sessions">
+		<item type = global name = "Simulation" variable = "net_status_sim">
+	</menu>
+	<item type = command name = "Game won" variable = "game_won">
+	<item type = command name = "Game lost" variable = "game_lost">
+	<item type = command name = "Display Session Data" variable = "data_mine_display_session_data">
+</menu>
+
+<menu name= "Profile Settings">
+	<menu name= "Player 1">
+		<menu name= "Controls">
+			<menu name= "Look Inversion">
+				<item type= command name= "  ON" variable= "controller_set_look_inverted controller1 true">
+				<item type= command name= "  OFF" variable= "controller_set_look_inverted controller1 false">
+			</menu>
+			<menu name= "Vibration">
+				<item type= command name= "  ON" variable= "controller_set_vibration_enabled controller1 true">
+				<item type= command name= "  OFF" variable= "controller_set_vibration_enabled controller1 false">
+			</menu>
+			<menu name= "Flight Stick Controls">
+				<item type= command name= "  ON" variable= "controller_set_flight_stick_aircraft_controls controller1 true">
+				<item type= command name= "  OFF" variable= "controller_set_flight_stick_aircraft_controls controller1 false">
+			</menu>
+			<menu name= "Auto Center Look">
+				<item type= command name= "  ON" variable= "controller_set_auto_center_look controller1 true">
+				<item type= command name= "  OFF" variable= "controller_set_auto_center_look controller1 false">
+			</menu>
+			<menu name= "Crouch Lock">
+				<item type= command name= "  ON" variable= "controller_set_crouch_lock controller1 true">
+				<item type= command name= "  OFF" variable= "controller_set_crouch_lock controller1 false">
+			</menu>
+			<menu name= "Button Preset">
+				<item type= command name= "  Standard" variable= "controller_set_button_preset controller1 standard">
+				<item type= command name= "  South paw" variable= "controller_set_button_preset controller1 south_paw">
+				<item type= command name= "  Boxer" variable= "controller_set_button_preset controller1 boxer">
+				<item type= command name= "  Green thumb" variable= "controller_set_button_preset controller1 green_thumb">
+			</menu>
+			<menu name= "Joystick Preset">
+				<item type= command name= "  Standard" variable= "controller_set_joystick_preset controller1 standard">
+				<item type= command name= "  South paw" variable= "controller_set_joystick_preset controller1 south_paw">
+				<item type= command name= "  Legacy" variable= "controller_set_joystick_preset controller1 legacy">
+				<item type= command name= "  Legacy south paw" variable= "controller_set_joystick_preset controller1 legacy_south_paw">
+			</menu>
+			<menu name= "Look Speed">
+				<item type= command name= "  1" variable= "controller_set_look_sensitivity controller1 0">
+				<item type= command name= "  2" variable= "controller_set_look_sensitivity controller1 1">
+				<item type= command name= "  3" variable= "controller_set_look_sensitivity controller1 2">
+				<item type= command name= "  4" variable= "controller_set_look_sensitivity controller1 3">
+				<item type= command name= "  5" variable= "controller_set_look_sensitivity controller1 4">
+				<item type= command name= "  6" variable= "controller_set_look_sensitivity controller1 5">
+				<item type= command name= "  7" variable= "controller_set_look_sensitivity controller1 6">
+				<item type= command name= "  8" variable= "controller_set_look_sensitivity controller1 7">
+				<item type= command name= "  9" variable= "controller_set_look_sensitivity controller1 8">
+				<item type= command name= " 10" variable= "controller_set_look_sensitivity controller1 9">
+			</menu>
+			<item type = command name = "Enable Sticky Crouch" variable = "player_control_sticky_crouch true">
+			<item type = command name = "Disable Sticky Crouch" variable = "player_control_sticky_crouch false">
+		</menu>
+		<menu name= "Campaign">
+			<item type= command name= "  unlock single player levels" variable= "controller_unlock_single_player_levels controller1">
+		</menu>
+		<menu name= "Appearance">
+			<menu name= "Primary Change Color">
+				<item type= command name= "  00" variable= "controller_set_primary_change_color controller1 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_primary_change_color controller1 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_primary_change_color controller1 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_primary_change_color controller1 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_primary_change_color controller1 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_primary_change_color controller1 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_primary_change_color controller1 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_primary_change_color controller1 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_primary_change_color controller1 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_primary_change_color controller1 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_primary_change_color controller1 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_primary_change_color controller1 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_primary_change_color controller1 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_primary_change_color controller1 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_primary_change_color controller1 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_primary_change_color controller1 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_primary_change_color controller1 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_primary_change_color controller1 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_primary_change_color controller1 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_primary_change_color controller1 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_primary_change_color controller1 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_primary_change_color controller1 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_primary_change_color controller1 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_primary_change_color controller1 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_primary_change_color controller1 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_primary_change_color controller1 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_primary_change_color controller1 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_primary_change_color controller1 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_primary_change_color controller1 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_primary_change_color controller1 player_color_29">
+			</menu>
+			<menu name= "Secondary Change Color">
+				<item type= command name= "  00" variable= "controller_set_secondary_change_color controller1 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_secondary_change_color controller1 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_secondary_change_color controller1 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_secondary_change_color controller1 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_secondary_change_color controller1 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_secondary_change_color controller1 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_secondary_change_color controller1 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_secondary_change_color controller1 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_secondary_change_color controller1 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_secondary_change_color controller1 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_secondary_change_color controller1 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_secondary_change_color controller1 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_secondary_change_color controller1 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_secondary_change_color controller1 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_secondary_change_color controller1 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_secondary_change_color controller1 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_secondary_change_color controller1 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_secondary_change_color controller1 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_secondary_change_color controller1 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_secondary_change_color controller1 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_secondary_change_color controller1 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_secondary_change_color controller1 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_secondary_change_color controller1 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_secondary_change_color controller1 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_secondary_change_color controller1 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_secondary_change_color controller1 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_secondary_change_color controller1 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_secondary_change_color controller1 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_secondary_change_color controller1 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_secondary_change_color controller1 player_color_29">
+			</menu>
+			<menu name= "Tertiary Change Color">
+				<item type= command name= "  00" variable= "controller_set_tertiary_change_color controller1 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_tertiary_change_color controller1 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_tertiary_change_color controller1 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_tertiary_change_color controller1 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_tertiary_change_color controller1 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_tertiary_change_color controller1 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_tertiary_change_color controller1 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_tertiary_change_color controller1 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_tertiary_change_color controller1 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_tertiary_change_color controller1 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_tertiary_change_color controller1 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_tertiary_change_color controller1 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_tertiary_change_color controller1 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_tertiary_change_color controller1 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_tertiary_change_color controller1 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_tertiary_change_color controller1 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_tertiary_change_color controller1 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_tertiary_change_color controller1 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_tertiary_change_color controller1 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_tertiary_change_color controller1 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_tertiary_change_color controller1 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_tertiary_change_color controller1 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_tertiary_change_color controller1 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_tertiary_change_color controller1 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_tertiary_change_color controller1 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_tertiary_change_color controller1 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_tertiary_change_color controller1 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_tertiary_change_color controller1 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_tertiary_change_color controller1 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_tertiary_change_color controller1 player_color_29">
+			</menu>
+			<menu name= "Primary Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_primary_emblem_color controller1 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_primary_emblem_color controller1 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_primary_emblem_color controller1 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_primary_emblem_color controller1 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_primary_emblem_color controller1 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_primary_emblem_color controller1 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_primary_emblem_color controller1 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_primary_emblem_color controller1 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_primary_emblem_color controller1 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_primary_emblem_color controller1 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_primary_emblem_color controller1 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_primary_emblem_color controller1 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_primary_emblem_color controller1 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_primary_emblem_color controller1 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_primary_emblem_color controller1 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_primary_emblem_color controller1 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_primary_emblem_color controller1 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_primary_emblem_color controller1 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_primary_emblem_color controller1 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_primary_emblem_color controller1 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_primary_emblem_color controller1 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_primary_emblem_color controller1 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_primary_emblem_color controller1 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_primary_emblem_color controller1 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_primary_emblem_color controller1 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_primary_emblem_color controller1 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_primary_emblem_color controller1 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_primary_emblem_color controller1 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_primary_emblem_color controller1 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_primary_emblem_color controller1 player_color_29">
+			</menu>
+			<menu name= "Secondary Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_secondary_emblem_color controller1 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_secondary_emblem_color controller1 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_secondary_emblem_color controller1 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_secondary_emblem_color controller1 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_secondary_emblem_color controller1 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_secondary_emblem_color controller1 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_secondary_emblem_color controller1 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_secondary_emblem_color controller1 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_secondary_emblem_color controller1 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_secondary_emblem_color controller1 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_secondary_emblem_color controller1 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_secondary_emblem_color controller1 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_secondary_emblem_color controller1 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_secondary_emblem_color controller1 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_secondary_emblem_color controller1 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_secondary_emblem_color controller1 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_secondary_emblem_color controller1 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_secondary_emblem_color controller1 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_secondary_emblem_color controller1 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_secondary_emblem_color controller1 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_secondary_emblem_color controller1 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_secondary_emblem_color controller1 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_secondary_emblem_color controller1 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_secondary_emblem_color controller1 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_secondary_emblem_color controller1 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_secondary_emblem_color controller1 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_secondary_emblem_color controller1 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_secondary_emblem_color controller1 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_secondary_emblem_color controller1 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_secondary_emblem_color controller1 player_color_29">
+			</menu>
+			<menu name= "Background Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_background_emblem_color controller1 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_background_emblem_color controller1 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_background_emblem_color controller1 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_background_emblem_color controller1 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_background_emblem_color controller1 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_background_emblem_color controller1 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_background_emblem_color controller1 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_background_emblem_color controller1 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_background_emblem_color controller1 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_background_emblem_color controller1 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_background_emblem_color controller1 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_background_emblem_color controller1 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_background_emblem_color controller1 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_background_emblem_color controller1 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_background_emblem_color controller1 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_background_emblem_color controller1 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_background_emblem_color controller1 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_background_emblem_color controller1 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_background_emblem_color controller1 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_background_emblem_color controller1 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_background_emblem_color controller1 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_background_emblem_color controller1 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_background_emblem_color controller1 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_background_emblem_color controller1 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_background_emblem_color controller1 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_background_emblem_color controller1 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_background_emblem_color controller1 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_background_emblem_color controller1 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_background_emblem_color controller1 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_background_emblem_color controller1 player_color_29">
+			</menu>
+			<menu name= "Character Model">
+				<item type= command name= "  Masterchief" variable= "controller_set_player_character_type controller1 mp_masterchief">
+				<item type= command name= "  Elite" variable= "controller_set_player_character_type controller1 mp_elite">
+			</menu>
+		</menu>
+		<menu name= "Voice">
+			<menu name= "Voice Output">
+				<item type= command name= "  Default" variable= "controller_set_voice_output_setting controller1 default">
+				<item type= command name= "  Speakers" variable= "controller_set_voice_output_setting controller1 speakers">
+				<item type= command name= "  Headset" variable= "controller_set_voice_output_setting controller1 headset">
+				<item type= command name= "  None" variable= "controller_set_voice_output_setting controller1 none">
+			</menu>
+			<menu name= "Voice Mask">
+				<item type= command name= "  None" variable= "controller_set_voice_mask controller1 none">
+				<item type= command name= "  Anonymous" variable= "controller_set_voice_mask controller1 anonymous">
+			</menu>
+		</menu>
+		<menu name= "Subtitles">
+			<item type= command name= "  Automatic" variable= "controller_set_subtitle_setting controller1 automatic">
+			<item type= command name= "  Enabled" variable= "controller_set_subtitle_setting controller1 enabled">
+			<item type= command name= "  Disabled" variable= "controller_set_subtitle_setting controller1 disabled">
+		</menu>
+	</menu>
+	<menu name= "Player 2">
+		<menu name= "Controls">
+			<menu name= "Look Inversion">
+				<item type= command name= "  ON" variable= "controller_set_look_inverted controller2 true">
+				<item type= command name= "  OFF" variable= "controller_set_look_inverted controller2 false">
+			</menu>
+			<menu name= "Vibration">
+				<item type= command name= "  ON" variable= "controller_set_vibration_enabled controller2 true">
+				<item type= command name= "  OFF" variable= "controller_set_vibration_enabled controller2 false">
+			</menu>
+			<menu name= "Flight Stick Controls">
+				<item type= command name= "  ON" variable= "controller_set_flight_stick_aircraft_controls controller2 true">
+				<item type= command name= "  OFF" variable= "controller_set_flight_stick_aircraft_controls controller2 false">
+			</menu>
+			<menu name= "Auto Center Look">
+				<item type= command name= "  ON" variable= "controller_set_auto_center_look controller2 true">
+				<item type= command name= "  OFF" variable= "controller_set_auto_center_look controller2 false">
+			</menu>
+			<menu name= "Crouch Lock">
+				<item type= command name= "  ON" variable= "controller_set_crouch_lock controller2 true">
+				<item type= command name= "  OFF" variable= "controller_set_crouch_lock controller2 false">
+			</menu>
+			<menu name= "Button Preset">
+				<item type= command name= "  Standard" variable= "controller_set_button_preset controller2 standard">
+				<item type= command name= "  South paw" variable= "controller_set_button_preset controller2 south_paw">
+				<item type= command name= "  Boxer" variable= "controller_set_button_preset controller2 boxer">
+				<item type= command name= "  Green thumb" variable= "controller_set_button_preset controller2 green_thumb">
+			</menu>
+			<menu name= "Joystick Preset">
+				<item type= command name= "  Standard" variable= "controller_set_joystick_preset controller2 standard">
+				<item type= command name= "  South paw" variable= "controller_set_joystick_preset controller2 south_paw">
+				<item type= command name= "  Legacy" variable= "controller_set_joystick_preset controller2 legacy">
+				<item type= command name= "  Legacy south paw" variable= "controller_set_joystick_preset controller2 legacy_south_paw">
+			</menu>
+			<menu name= "Look Speed">
+				<item type= command name= "  1" variable= "controller_set_look_sensitivity controller2 0">
+				<item type= command name= "  2" variable= "controller_set_look_sensitivity controller2 1">
+				<item type= command name= "  3" variable= "controller_set_look_sensitivity controller2 2">
+				<item type= command name= "  4" variable= "controller_set_look_sensitivity controller2 3">
+				<item type= command name= "  5" variable= "controller_set_look_sensitivity controller2 4">
+				<item type= command name= "  6" variable= "controller_set_look_sensitivity controller2 5">
+				<item type= command name= "  7" variable= "controller_set_look_sensitivity controller2 6">
+				<item type= command name= "  8" variable= "controller_set_look_sensitivity controller2 7">
+				<item type= command name= "  9" variable= "controller_set_look_sensitivity controller2 8">
+				<item type= command name= " 10" variable= "controller_set_look_sensitivity controller2 9">
+			</menu>
+			<item type = command name = "Enable Sticky Crouch" variable = "player_control_sticky_crouch true">
+			<item type = command name = "Disable Sticky Crouch" variable = "player_control_sticky_crouch false">
+		</menu>
+		<menu name= "Campaign">
+			<item type= command name= "  unlock single player levels" variable= "controller_unlock_single_player_levels controller2">
+		</menu>
+		<menu name= "Appearance">
+			<menu name= "Primary Change Color">
+				<item type= command name= "  00" variable= "controller_set_primary_change_color controller2 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_primary_change_color controller2 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_primary_change_color controller2 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_primary_change_color controller2 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_primary_change_color controller2 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_primary_change_color controller2 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_primary_change_color controller2 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_primary_change_color controller2 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_primary_change_color controller2 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_primary_change_color controller2 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_primary_change_color controller2 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_primary_change_color controller2 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_primary_change_color controller2 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_primary_change_color controller2 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_primary_change_color controller2 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_primary_change_color controller2 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_primary_change_color controller2 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_primary_change_color controller2 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_primary_change_color controller2 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_primary_change_color controller2 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_primary_change_color controller2 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_primary_change_color controller2 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_primary_change_color controller2 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_primary_change_color controller2 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_primary_change_color controller2 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_primary_change_color controller2 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_primary_change_color controller2 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_primary_change_color controller2 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_primary_change_color controller2 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_primary_change_color controller2 player_color_29">
+			</menu>
+			<menu name= "Secondary Change Color">
+				<item type= command name= "  00" variable= "controller_set_secondary_change_color controller2 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_secondary_change_color controller2 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_secondary_change_color controller2 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_secondary_change_color controller2 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_secondary_change_color controller2 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_secondary_change_color controller2 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_secondary_change_color controller2 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_secondary_change_color controller2 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_secondary_change_color controller2 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_secondary_change_color controller2 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_secondary_change_color controller2 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_secondary_change_color controller2 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_secondary_change_color controller2 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_secondary_change_color controller2 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_secondary_change_color controller2 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_secondary_change_color controller2 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_secondary_change_color controller2 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_secondary_change_color controller2 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_secondary_change_color controller2 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_secondary_change_color controller2 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_secondary_change_color controller2 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_secondary_change_color controller2 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_secondary_change_color controller2 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_secondary_change_color controller2 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_secondary_change_color controller2 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_secondary_change_color controller2 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_secondary_change_color controller2 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_secondary_change_color controller2 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_secondary_change_color controller2 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_secondary_change_color controller2 player_color_29">
+			</menu>
+			<menu name= "Tertiary Change Color">
+				<item type= command name= "  00" variable= "controller_set_tertiary_change_color controller2 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_tertiary_change_color controller2 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_tertiary_change_color controller2 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_tertiary_change_color controller2 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_tertiary_change_color controller2 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_tertiary_change_color controller2 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_tertiary_change_color controller2 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_tertiary_change_color controller2 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_tertiary_change_color controller2 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_tertiary_change_color controller2 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_tertiary_change_color controller2 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_tertiary_change_color controller2 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_tertiary_change_color controller2 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_tertiary_change_color controller2 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_tertiary_change_color controller2 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_tertiary_change_color controller2 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_tertiary_change_color controller2 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_tertiary_change_color controller2 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_tertiary_change_color controller2 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_tertiary_change_color controller2 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_tertiary_change_color controller2 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_tertiary_change_color controller2 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_tertiary_change_color controller2 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_tertiary_change_color controller2 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_tertiary_change_color controller2 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_tertiary_change_color controller2 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_tertiary_change_color controller2 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_tertiary_change_color controller2 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_tertiary_change_color controller2 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_tertiary_change_color controller2 player_color_29">
+			</menu>
+			<menu name= "Primary Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_primary_emblem_color controller2 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_primary_emblem_color controller2 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_primary_emblem_color controller2 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_primary_emblem_color controller2 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_primary_emblem_color controller2 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_primary_emblem_color controller2 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_primary_emblem_color controller2 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_primary_emblem_color controller2 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_primary_emblem_color controller2 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_primary_emblem_color controller2 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_primary_emblem_color controller2 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_primary_emblem_color controller2 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_primary_emblem_color controller2 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_primary_emblem_color controller2 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_primary_emblem_color controller2 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_primary_emblem_color controller2 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_primary_emblem_color controller2 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_primary_emblem_color controller2 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_primary_emblem_color controller2 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_primary_emblem_color controller2 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_primary_emblem_color controller2 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_primary_emblem_color controller2 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_primary_emblem_color controller2 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_primary_emblem_color controller2 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_primary_emblem_color controller2 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_primary_emblem_color controller2 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_primary_emblem_color controller2 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_primary_emblem_color controller2 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_primary_emblem_color controller2 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_primary_emblem_color controller2 player_color_29">
+			</menu>
+			<menu name= "Secondary Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_secondary_emblem_color controller2 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_secondary_emblem_color controller2 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_secondary_emblem_color controller2 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_secondary_emblem_color controller2 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_secondary_emblem_color controller2 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_secondary_emblem_color controller2 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_secondary_emblem_color controller2 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_secondary_emblem_color controller2 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_secondary_emblem_color controller2 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_secondary_emblem_color controller2 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_secondary_emblem_color controller2 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_secondary_emblem_color controller2 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_secondary_emblem_color controller2 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_secondary_emblem_color controller2 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_secondary_emblem_color controller2 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_secondary_emblem_color controller2 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_secondary_emblem_color controller2 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_secondary_emblem_color controller2 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_secondary_emblem_color controller2 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_secondary_emblem_color controller2 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_secondary_emblem_color controller2 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_secondary_emblem_color controller2 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_secondary_emblem_color controller2 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_secondary_emblem_color controller2 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_secondary_emblem_color controller2 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_secondary_emblem_color controller2 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_secondary_emblem_color controller2 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_secondary_emblem_color controller2 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_secondary_emblem_color controller2 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_secondary_emblem_color controller2 player_color_29">
+			</menu>
+			<menu name= "Background Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_background_emblem_color controller2 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_background_emblem_color controller2 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_background_emblem_color controller2 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_background_emblem_color controller2 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_background_emblem_color controller2 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_background_emblem_color controller2 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_background_emblem_color controller2 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_background_emblem_color controller2 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_background_emblem_color controller2 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_background_emblem_color controller2 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_background_emblem_color controller2 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_background_emblem_color controller2 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_background_emblem_color controller2 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_background_emblem_color controller2 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_background_emblem_color controller2 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_background_emblem_color controller2 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_background_emblem_color controller2 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_background_emblem_color controller2 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_background_emblem_color controller2 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_background_emblem_color controller2 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_background_emblem_color controller2 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_background_emblem_color controller2 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_background_emblem_color controller2 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_background_emblem_color controller2 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_background_emblem_color controller2 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_background_emblem_color controller2 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_background_emblem_color controller2 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_background_emblem_color controller2 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_background_emblem_color controller2 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_background_emblem_color controller2 player_color_29">
+			</menu>
+			<menu name= "Character Model">
+				<item type= command name= "  Masterchief" variable= "controller_set_player_character_type controller2 mp_masterchief">
+				<item type= command name= "  Elite" variable= "controller_set_player_character_type controller2 mp_elite">
+			</menu>
+		</menu>
+		<menu name= "Voice">
+			<menu name= "Voice Output">
+				<item type= command name= "  Default" variable= "controller_set_voice_output_setting controller2 default">
+				<item type= command name= "  Speakers" variable= "controller_set_voice_output_setting controller2 speakers">
+				<item type= command name= "  Headset" variable= "controller_set_voice_output_setting controller2 headset">
+				<item type= command name= "  None" variable= "controller_set_voice_output_setting controller2 none">
+			</menu>
+			<menu name= "Voice Mask">
+				<item type= command name= "  None" variable= "controller_set_voice_mask controller2 none">
+				<item type= command name= "  Anonymous" variable= "controller_set_voice_mask controller2 anonymous">
+			</menu>
+		</menu>
+		<menu name= "Subtitles">
+			<item type= command name= "  Automatic" variable= "controller_set_subtitle_setting controller2 automatic">
+			<item type= command name= "  Enabled" variable= "controller_set_subtitle_setting controller2 enabled">
+			<item type= command name= "  Disabled" variable= "controller_set_subtitle_setting controller2 disabled">
+		</menu>
+	</menu>
+	<menu name= "Player 3">
+		<menu name= "Controls">
+			<menu name= "Look Inversion">
+				<item type= command name= "  ON" variable= "controller_set_look_inverted controller3 true">
+				<item type= command name= "  OFF" variable= "controller_set_look_inverted controller3 false">
+			</menu>
+			<menu name= "Vibration">
+				<item type= command name= "  ON" variable= "controller_set_vibration_enabled controller3 true">
+				<item type= command name= "  OFF" variable= "controller_set_vibration_enabled controller3 false">
+			</menu>
+			<menu name= "Flight Stick Controls">
+				<item type= command name= "  ON" variable= "controller_set_flight_stick_aircraft_controls controller3 true">
+				<item type= command name= "  OFF" variable= "controller_set_flight_stick_aircraft_controls controller3 false">
+			</menu>
+			<menu name= "Auto Center Look">
+				<item type= command name= "  ON" variable= "controller_set_auto_center_look controller3 true">
+				<item type= command name= "  OFF" variable= "controller_set_auto_center_look controller3 false">
+			</menu>
+			<menu name= "Crouch Lock">
+				<item type= command name= "  ON" variable= "controller_set_crouch_lock controller3 true">
+				<item type= command name= "  OFF" variable= "controller_set_crouch_lock controller3 false">
+			</menu>
+			<menu name= "Button Preset">
+				<item type= command name= "  Standard" variable= "controller_set_button_preset controller3 standard">
+				<item type= command name= "  South paw" variable= "controller_set_button_preset controller3 south_paw">
+				<item type= command name= "  Boxer" variable= "controller_set_button_preset controller3 boxer">
+				<item type= command name= "  Green thumb" variable= "controller_set_button_preset controller3 green_thumb">
+			</menu>
+			<menu name= "Joystick Preset">
+				<item type= command name= "  Standard" variable= "controller_set_joystick_preset controller3 standard">
+				<item type= command name= "  South paw" variable= "controller_set_joystick_preset controller3 south_paw">
+				<item type= command name= "  Legacy" variable= "controller_set_joystick_preset controller3 legacy">
+				<item type= command name= "  Legacy south paw" variable= "controller_set_joystick_preset controller3 legacy_south_paw">
+			</menu>
+			<menu name= "Look Speed">
+				<item type= command name= "  1" variable= "controller_set_look_sensitivity controller3 0">
+				<item type= command name= "  2" variable= "controller_set_look_sensitivity controller3 1">
+				<item type= command name= "  3" variable= "controller_set_look_sensitivity controller3 2">
+				<item type= command name= "  4" variable= "controller_set_look_sensitivity controller3 3">
+				<item type= command name= "  5" variable= "controller_set_look_sensitivity controller3 4">
+				<item type= command name= "  6" variable= "controller_set_look_sensitivity controller3 5">
+				<item type= command name= "  7" variable= "controller_set_look_sensitivity controller3 6">
+				<item type= command name= "  8" variable= "controller_set_look_sensitivity controller3 7">
+				<item type= command name= "  9" variable= "controller_set_look_sensitivity controller3 8">
+				<item type= command name= " 10" variable= "controller_set_look_sensitivity controller3 9">
+			</menu>
+			<item type = command name = "Enable Sticky Crouch" variable = "player_control_sticky_crouch true">
+			<item type = command name = "Disable Sticky Crouch" variable = "player_control_sticky_crouch false">
+		</menu>
+		<menu name= "Campaign">
+			<item type= command name= "  unlock single player levels" variable= "controller_unlock_single_player_levels controller3">
+		</menu>
+		<menu name= "Appearance">
+			<menu name= "Primary Change Color">
+				<item type= command name= "  00" variable= "controller_set_primary_change_color controller3 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_primary_change_color controller3 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_primary_change_color controller3 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_primary_change_color controller3 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_primary_change_color controller3 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_primary_change_color controller3 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_primary_change_color controller3 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_primary_change_color controller3 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_primary_change_color controller3 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_primary_change_color controller3 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_primary_change_color controller3 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_primary_change_color controller3 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_primary_change_color controller3 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_primary_change_color controller3 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_primary_change_color controller3 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_primary_change_color controller3 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_primary_change_color controller3 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_primary_change_color controller3 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_primary_change_color controller3 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_primary_change_color controller3 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_primary_change_color controller3 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_primary_change_color controller3 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_primary_change_color controller3 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_primary_change_color controller3 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_primary_change_color controller3 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_primary_change_color controller3 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_primary_change_color controller3 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_primary_change_color controller3 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_primary_change_color controller3 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_primary_change_color controller3 player_color_29">
+			</menu>
+			<menu name= "Secondary Change Color">
+				<item type= command name= "  00" variable= "controller_set_secondary_change_color controller3 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_secondary_change_color controller3 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_secondary_change_color controller3 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_secondary_change_color controller3 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_secondary_change_color controller3 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_secondary_change_color controller3 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_secondary_change_color controller3 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_secondary_change_color controller3 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_secondary_change_color controller3 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_secondary_change_color controller3 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_secondary_change_color controller3 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_secondary_change_color controller3 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_secondary_change_color controller3 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_secondary_change_color controller3 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_secondary_change_color controller3 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_secondary_change_color controller3 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_secondary_change_color controller3 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_secondary_change_color controller3 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_secondary_change_color controller3 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_secondary_change_color controller3 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_secondary_change_color controller3 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_secondary_change_color controller3 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_secondary_change_color controller3 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_secondary_change_color controller3 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_secondary_change_color controller3 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_secondary_change_color controller3 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_secondary_change_color controller3 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_secondary_change_color controller3 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_secondary_change_color controller3 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_secondary_change_color controller3 player_color_29">
+			</menu>
+			<menu name= "Tertiary Change Color">
+				<item type= command name= "  00" variable= "controller_set_tertiary_change_color controller3 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_tertiary_change_color controller3 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_tertiary_change_color controller3 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_tertiary_change_color controller3 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_tertiary_change_color controller3 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_tertiary_change_color controller3 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_tertiary_change_color controller3 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_tertiary_change_color controller3 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_tertiary_change_color controller3 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_tertiary_change_color controller3 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_tertiary_change_color controller3 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_tertiary_change_color controller3 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_tertiary_change_color controller3 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_tertiary_change_color controller3 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_tertiary_change_color controller3 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_tertiary_change_color controller3 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_tertiary_change_color controller3 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_tertiary_change_color controller3 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_tertiary_change_color controller3 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_tertiary_change_color controller3 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_tertiary_change_color controller3 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_tertiary_change_color controller3 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_tertiary_change_color controller3 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_tertiary_change_color controller3 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_tertiary_change_color controller3 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_tertiary_change_color controller3 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_tertiary_change_color controller3 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_tertiary_change_color controller3 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_tertiary_change_color controller3 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_tertiary_change_color controller3 player_color_29">
+			</menu>
+			<menu name= "Primary Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_primary_emblem_color controller3 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_primary_emblem_color controller3 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_primary_emblem_color controller3 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_primary_emblem_color controller3 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_primary_emblem_color controller3 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_primary_emblem_color controller3 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_primary_emblem_color controller3 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_primary_emblem_color controller3 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_primary_emblem_color controller3 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_primary_emblem_color controller3 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_primary_emblem_color controller3 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_primary_emblem_color controller3 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_primary_emblem_color controller3 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_primary_emblem_color controller3 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_primary_emblem_color controller3 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_primary_emblem_color controller3 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_primary_emblem_color controller3 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_primary_emblem_color controller3 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_primary_emblem_color controller3 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_primary_emblem_color controller3 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_primary_emblem_color controller3 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_primary_emblem_color controller3 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_primary_emblem_color controller3 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_primary_emblem_color controller3 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_primary_emblem_color controller3 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_primary_emblem_color controller3 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_primary_emblem_color controller3 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_primary_emblem_color controller3 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_primary_emblem_color controller3 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_primary_emblem_color controller3 player_color_29">
+			</menu>
+			<menu name= "Secondary Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_secondary_emblem_color controller3 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_secondary_emblem_color controller3 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_secondary_emblem_color controller3 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_secondary_emblem_color controller3 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_secondary_emblem_color controller3 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_secondary_emblem_color controller3 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_secondary_emblem_color controller3 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_secondary_emblem_color controller3 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_secondary_emblem_color controller3 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_secondary_emblem_color controller3 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_secondary_emblem_color controller3 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_secondary_emblem_color controller3 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_secondary_emblem_color controller3 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_secondary_emblem_color controller3 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_secondary_emblem_color controller3 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_secondary_emblem_color controller3 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_secondary_emblem_color controller3 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_secondary_emblem_color controller3 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_secondary_emblem_color controller3 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_secondary_emblem_color controller3 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_secondary_emblem_color controller3 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_secondary_emblem_color controller3 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_secondary_emblem_color controller3 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_secondary_emblem_color controller3 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_secondary_emblem_color controller3 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_secondary_emblem_color controller3 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_secondary_emblem_color controller3 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_secondary_emblem_color controller3 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_secondary_emblem_color controller3 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_secondary_emblem_color controller3 player_color_29">
+			</menu>
+			<menu name= "Background Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_background_emblem_color controller3 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_background_emblem_color controller3 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_background_emblem_color controller3 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_background_emblem_color controller3 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_background_emblem_color controller3 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_background_emblem_color controller3 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_background_emblem_color controller3 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_background_emblem_color controller3 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_background_emblem_color controller3 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_background_emblem_color controller3 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_background_emblem_color controller3 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_background_emblem_color controller3 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_background_emblem_color controller3 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_background_emblem_color controller3 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_background_emblem_color controller3 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_background_emblem_color controller3 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_background_emblem_color controller3 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_background_emblem_color controller3 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_background_emblem_color controller3 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_background_emblem_color controller3 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_background_emblem_color controller3 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_background_emblem_color controller3 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_background_emblem_color controller3 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_background_emblem_color controller3 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_background_emblem_color controller3 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_background_emblem_color controller3 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_background_emblem_color controller3 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_background_emblem_color controller3 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_background_emblem_color controller3 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_background_emblem_color controller3 player_color_29">
+			</menu>
+			<menu name= "Character Model">
+				<item type= command name= "  Masterchief" variable= "controller_set_player_character_type controller3 mp_masterchief">
+				<item type= command name= "  Elite" variable= "controller_set_player_character_type controller3 mp_elite">
+			</menu>
+		</menu>
+		<menu name= "Voice">
+			<menu name= "Voice Output">
+				<item type= command name= "  Default" variable= "controller_set_voice_output_setting controller3 default">
+				<item type= command name= "  Speakers" variable= "controller_set_voice_output_setting controller3 speakers">
+				<item type= command name= "  Headset" variable= "controller_set_voice_output_setting controller3 headset">
+				<item type= command name= "  None" variable= "controller_set_voice_output_setting controller3 none">
+			</menu>
+			<menu name= "Voice Mask">
+				<item type= command name= "  None" variable= "controller_set_voice_mask controller3 none">
+				<item type= command name= "  Anonymous" variable= "controller_set_voice_mask controller3 anonymous">
+			</menu>
+		</menu>
+		<menu name= "Subtitles">
+			<item type= command name= "  Automatic" variable= "controller_set_subtitle_setting controller3 automatic">
+			<item type= command name= "  Enabled" variable= "controller_set_subtitle_setting controller3 enabled">
+			<item type= command name= "  Disabled" variable= "controller_set_subtitle_setting controller3 disabled">
+		</menu>
+	</menu>
+	<menu name= "Player 4">
+		<menu name= "Controls">
+			<menu name= "Look Inversion">
+				<item type= command name= "  ON" variable= "controller_set_look_inverted controller4 true">
+				<item type= command name= "  OFF" variable= "controller_set_look_inverted controller4 false">
+			</menu>
+			<menu name= "Vibration">
+				<item type= command name= "  ON" variable= "controller_set_vibration_enabled controller4 true">
+				<item type= command name= "  OFF" variable= "controller_set_vibration_enabled controller4 false">
+			</menu>
+			<menu name= "Flight Stick Controls">
+				<item type= command name= "  ON" variable= "controller_set_flight_stick_aircraft_controls controller4 true">
+				<item type= command name= "  OFF" variable= "controller_set_flight_stick_aircraft_controls controller4 false">
+			</menu>
+			<menu name= "Auto Center Look">
+				<item type= command name= "  ON" variable= "controller_set_auto_center_look controller4 true">
+				<item type= command name= "  OFF" variable= "controller_set_auto_center_look controller4 false">
+			</menu>
+			<menu name= "Crouch Lock">
+				<item type= command name= "  ON" variable= "controller_set_crouch_lock controller4 true">
+				<item type= command name= "  OFF" variable= "controller_set_crouch_lock controller4 false">
+			</menu>
+			<menu name= "Button Preset">
+				<item type= command name= "  Standard" variable= "controller_set_button_preset controller4 standard">
+				<item type= command name= "  South paw" variable= "controller_set_button_preset controller4 south_paw">
+				<item type= command name= "  Boxer" variable= "controller_set_button_preset controller4 boxer">
+				<item type= command name= "  Green thumb" variable= "controller_set_button_preset controller4 green_thumb">
+			</menu>
+			<menu name= "Joystick Preset">
+				<item type= command name= "  Standard" variable= "controller_set_joystick_preset controller4 standard">
+				<item type= command name= "  South paw" variable= "controller_set_joystick_preset controller4 south_paw">
+				<item type= command name= "  Legacy" variable= "controller_set_joystick_preset controller4 legacy">
+				<item type= command name= "  Legacy south paw" variable= "controller_set_joystick_preset controller4 legacy_south_paw">
+			</menu>
+			<menu name= "Look Speed">
+				<item type= command name= "  1" variable= "controller_set_look_sensitivity controller4 0">
+				<item type= command name= "  2" variable= "controller_set_look_sensitivity controller4 1">
+				<item type= command name= "  3" variable= "controller_set_look_sensitivity controller4 2">
+				<item type= command name= "  4" variable= "controller_set_look_sensitivity controller4 3">
+				<item type= command name= "  5" variable= "controller_set_look_sensitivity controller4 4">
+				<item type= command name= "  6" variable= "controller_set_look_sensitivity controller4 5">
+				<item type= command name= "  7" variable= "controller_set_look_sensitivity controller4 6">
+				<item type= command name= "  8" variable= "controller_set_look_sensitivity controller4 7">
+				<item type= command name= "  9" variable= "controller_set_look_sensitivity controller4 8">
+				<item type= command name= " 10" variable= "controller_set_look_sensitivity controller4 9">
+			</menu>
+			<item type = command name = "Enable Sticky Crouch" variable = "player_control_sticky_crouch true">
+			<item type = command name = "Disable Sticky Crouch" variable = "player_control_sticky_crouch false">
+		</menu>
+		<menu name= "Campaign">
+			<item type= command name= "  unlock single player levels" variable= "controller_unlock_single_player_levels controller4">
+		</menu>
+		<menu name= "Appearance">
+			<menu name= "Primary Change Color">
+				<item type= command name= "  00" variable= "controller_set_primary_change_color controller4 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_primary_change_color controller4 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_primary_change_color controller4 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_primary_change_color controller4 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_primary_change_color controller4 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_primary_change_color controller4 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_primary_change_color controller4 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_primary_change_color controller4 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_primary_change_color controller4 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_primary_change_color controller4 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_primary_change_color controller4 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_primary_change_color controller4 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_primary_change_color controller4 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_primary_change_color controller4 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_primary_change_color controller4 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_primary_change_color controller4 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_primary_change_color controller4 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_primary_change_color controller4 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_primary_change_color controller4 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_primary_change_color controller4 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_primary_change_color controller4 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_primary_change_color controller4 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_primary_change_color controller4 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_primary_change_color controller4 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_primary_change_color controller4 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_primary_change_color controller4 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_primary_change_color controller4 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_primary_change_color controller4 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_primary_change_color controller4 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_primary_change_color controller4 player_color_29">
+			</menu>
+			<menu name= "Secondary Change Color">
+				<item type= command name= "  00" variable= "controller_set_secondary_change_color controller4 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_secondary_change_color controller4 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_secondary_change_color controller4 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_secondary_change_color controller4 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_secondary_change_color controller4 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_secondary_change_color controller4 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_secondary_change_color controller4 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_secondary_change_color controller4 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_secondary_change_color controller4 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_secondary_change_color controller4 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_secondary_change_color controller4 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_secondary_change_color controller4 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_secondary_change_color controller4 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_secondary_change_color controller4 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_secondary_change_color controller4 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_secondary_change_color controller4 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_secondary_change_color controller4 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_secondary_change_color controller4 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_secondary_change_color controller4 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_secondary_change_color controller4 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_secondary_change_color controller4 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_secondary_change_color controller4 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_secondary_change_color controller4 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_secondary_change_color controller4 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_secondary_change_color controller4 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_secondary_change_color controller4 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_secondary_change_color controller4 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_secondary_change_color controller4 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_secondary_change_color controller4 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_secondary_change_color controller4 player_color_29">
+			</menu>
+			<menu name= "Tertiary Change Color">
+				<item type= command name= "  00" variable= "controller_set_tertiary_change_color controller4 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_tertiary_change_color controller4 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_tertiary_change_color controller4 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_tertiary_change_color controller4 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_tertiary_change_color controller4 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_tertiary_change_color controller4 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_tertiary_change_color controller4 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_tertiary_change_color controller4 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_tertiary_change_color controller4 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_tertiary_change_color controller4 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_tertiary_change_color controller4 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_tertiary_change_color controller4 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_tertiary_change_color controller4 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_tertiary_change_color controller4 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_tertiary_change_color controller4 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_tertiary_change_color controller4 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_tertiary_change_color controller4 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_tertiary_change_color controller4 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_tertiary_change_color controller4 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_tertiary_change_color controller4 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_tertiary_change_color controller4 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_tertiary_change_color controller4 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_tertiary_change_color controller4 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_tertiary_change_color controller4 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_tertiary_change_color controller4 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_tertiary_change_color controller4 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_tertiary_change_color controller4 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_tertiary_change_color controller4 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_tertiary_change_color controller4 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_tertiary_change_color controller4 player_color_29">
+			</menu>
+			<menu name= "Primary Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_primary_emblem_color controller4 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_primary_emblem_color controller4 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_primary_emblem_color controller4 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_primary_emblem_color controller4 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_primary_emblem_color controller4 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_primary_emblem_color controller4 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_primary_emblem_color controller4 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_primary_emblem_color controller4 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_primary_emblem_color controller4 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_primary_emblem_color controller4 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_primary_emblem_color controller4 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_primary_emblem_color controller4 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_primary_emblem_color controller4 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_primary_emblem_color controller4 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_primary_emblem_color controller4 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_primary_emblem_color controller4 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_primary_emblem_color controller4 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_primary_emblem_color controller4 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_primary_emblem_color controller4 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_primary_emblem_color controller4 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_primary_emblem_color controller4 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_primary_emblem_color controller4 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_primary_emblem_color controller4 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_primary_emblem_color controller4 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_primary_emblem_color controller4 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_primary_emblem_color controller4 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_primary_emblem_color controller4 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_primary_emblem_color controller4 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_primary_emblem_color controller4 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_primary_emblem_color controller4 player_color_29">
+			</menu>
+			<menu name= "Secondary Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_secondary_emblem_color controller4 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_secondary_emblem_color controller4 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_secondary_emblem_color controller4 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_secondary_emblem_color controller4 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_secondary_emblem_color controller4 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_secondary_emblem_color controller4 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_secondary_emblem_color controller4 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_secondary_emblem_color controller4 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_secondary_emblem_color controller4 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_secondary_emblem_color controller4 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_secondary_emblem_color controller4 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_secondary_emblem_color controller4 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_secondary_emblem_color controller4 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_secondary_emblem_color controller4 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_secondary_emblem_color controller4 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_secondary_emblem_color controller4 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_secondary_emblem_color controller4 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_secondary_emblem_color controller4 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_secondary_emblem_color controller4 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_secondary_emblem_color controller4 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_secondary_emblem_color controller4 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_secondary_emblem_color controller4 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_secondary_emblem_color controller4 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_secondary_emblem_color controller4 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_secondary_emblem_color controller4 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_secondary_emblem_color controller4 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_secondary_emblem_color controller4 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_secondary_emblem_color controller4 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_secondary_emblem_color controller4 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_secondary_emblem_color controller4 player_color_29">
+			</menu>
+			<menu name= "Background Emblem Color">
+				<item type= command name= "  00" variable= "controller_set_background_emblem_color controller4 player_color_00">
+				<item type= command name= "  01" variable= "controller_set_background_emblem_color controller4 player_color_01">
+				<item type= command name= "  02" variable= "controller_set_background_emblem_color controller4 player_color_02">
+				<item type= command name= "  03" variable= "controller_set_background_emblem_color controller4 player_color_03">
+				<item type= command name= "  04" variable= "controller_set_background_emblem_color controller4 player_color_04">
+				<item type= command name= "  05" variable= "controller_set_background_emblem_color controller4 player_color_05">
+				<item type= command name= "  06" variable= "controller_set_background_emblem_color controller4 player_color_06">
+				<item type= command name= "  07" variable= "controller_set_background_emblem_color controller4 player_color_07">
+				<item type= command name= "  08" variable= "controller_set_background_emblem_color controller4 player_color_08">
+				<item type= command name= "  09" variable= "controller_set_background_emblem_color controller4 player_color_09">
+				<item type= command name= "  10" variable= "controller_set_background_emblem_color controller4 player_color_10">
+				<item type= command name= "  11" variable= "controller_set_background_emblem_color controller4 player_color_11">
+				<item type= command name= "  12" variable= "controller_set_background_emblem_color controller4 player_color_12">
+				<item type= command name= "  13" variable= "controller_set_background_emblem_color controller4 player_color_13">
+				<item type= command name= "  14" variable= "controller_set_background_emblem_color controller4 player_color_14">
+				<item type= command name= "  15" variable= "controller_set_background_emblem_color controller4 player_color_15">
+				<item type= command name= "  16" variable= "controller_set_background_emblem_color controller4 player_color_16">
+				<item type= command name= "  17" variable= "controller_set_background_emblem_color controller4 player_color_17">
+				<item type= command name= "  18" variable= "controller_set_background_emblem_color controller4 player_color_18">
+				<item type= command name= "  19" variable= "controller_set_background_emblem_color controller4 player_color_19">
+				<item type= command name= "  20" variable= "controller_set_background_emblem_color controller4 player_color_20">
+				<item type= command name= "  21" variable= "controller_set_background_emblem_color controller4 player_color_21">
+				<item type= command name= "  22" variable= "controller_set_background_emblem_color controller4 player_color_22">
+				<item type= command name= "  23" variable= "controller_set_background_emblem_color controller4 player_color_23">
+				<item type= command name= "  24" variable= "controller_set_background_emblem_color controller4 player_color_24">
+				<item type= command name= "  25" variable= "controller_set_background_emblem_color controller4 player_color_25">
+				<item type= command name= "  26" variable= "controller_set_background_emblem_color controller4 player_color_26">
+				<item type= command name= "  27" variable= "controller_set_background_emblem_color controller4 player_color_27">
+				<item type= command name= "  28" variable= "controller_set_background_emblem_color controller4 player_color_28">
+				<item type= command name= "  29" variable= "controller_set_background_emblem_color controller4 player_color_29">
+			</menu>
+			<menu name= "Character Model">
+				<item type= command name= "  Masterchief" variable= "controller_set_player_character_type controller4 mp_masterchief">
+				<item type= command name= "  Elite" variable= "controller_set_player_character_type controller4 mp_elite">
+			</menu>
+		</menu>
+		<menu name= "Voice">
+			<menu name= "Voice Output">
+				<item type= command name= "  Default" variable= "controller_set_voice_output_setting controller4 default">
+				<item type= command name= "  Speakers" variable= "controller_set_voice_output_setting controller4 speakers">
+				<item type= command name= "  Headset" variable= "controller_set_voice_output_setting controller4 headset">
+				<item type= command name= "  None" variable= "controller_set_voice_output_setting controller4 none">
+			</menu>
+			<menu name= "Voice Mask">
+				<item type= command name= "  None" variable= "controller_set_voice_mask controller4 none">
+				<item type= command name= "  Anonymous" variable= "controller_set_voice_mask controller4 anonymous">
+			</menu>
+		</menu>
+		<menu name= "Subtitles">
+			<item type= command name= "  Automatic" variable= "controller_set_subtitle_setting controller4 automatic">
+			<item type= command name= "  Enabled" variable= "controller_set_subtitle_setting controller4 enabled">
+			<item type= command name= "  Disabled" variable= "controller_set_subtitle_setting controller4 disabled">
+		</menu>
+	</menu>
+</menu>
+
+<menu name = "Audio">
+	<menu name = "debug display options">
+		<item type = global name = "sounds" variable = "debug_sound">
+		<item type = global name = "sounds_looping" variable = "debug_looping_sound">
+		<item type = global name = "sounds_reverb" variable = "debug_sound_reverb">
+		<item type = global name = "sound_channels" variable = "debug_sound_manager_channels">
+		<item type = global name = "sound_channels_status" variable = "debug_sound_manager_channels_status">
+		<item type = global name = "duckers" variable = "debug_duckers">
+		<menu name = "XAudio2">
+			<item type = global name = "levels" variable = "debug_display_levels_data">
+			<item type = global name = "preformance" variable = "debug_display_preformance_data">
+			<item type = global name = "sources_state" variable = "debug_display_sources_data_state">
+		</menu>
+		<menu name = "Cache">
+			<item type = global name = "memory_data" variable = "debug_sound_cache">
+			<item type = global name = "chunk_status" variable = "debug_sound_cache_status">
+		</menu>
+	</menu>
+	<menu name = "Mute">
+		<menu name = "Types">
+			<item type = global name = "ambient" variable = "debug_sound_mute_ambient">
+			<item type = global name = "dialog" variable = "debug_sound_mute_dialog">
+			<item type = global name = "music" variable = "debug_sound_mute_music">
+			<item type = global name = "vehicles" variable = "debug_sound_mute_vehicles">
+			<item type = global name = "weapons" variable = "debug_sound_mute_weapons">
+		</menu>
+		<menu name = "Mix">
+			<item type = global name = "dry" variable = "debug_sound_mute_mix_dry">
+			<item type = global name = "dry obstruction" variable = "debug_sound_mute_mix_dry_obstruction">
+			<item type = global name = "wet" variable = "debug_sound_mute_mix_wet">
+			<item type = global name = "wet occlusion" variable = "debug_sound_mute_mix_wet_occlusion">
+			<item type = global name = "radio" variable = "debug_sound_mute_mix_radio">
+		</menu>
+		<menu name = "Effects">
+			<item type = global name = "final mix" variable = "debug_sound_mute_effect_final_mix">
+			<item type = global name = "sub mix" variable = "debug_sound_mute_effect_sub_mix">
+			<item type = global name = "occlusion" variable = "debug_sound_mute_effect_occlusion">
+			<item type = global name = "obstruction" variable = "debug_sound_mute_effect_obstruction">
+			<item type = global name = "radio" variable = "debug_sound_mute_effect_radio">
+			<item type = global name = "reverb 0" variable = "debug_sound_mute_effect_reverb_first">
+			<item type = global name = "reverb 1" variable = "debug_sound_mute_effect_reverb_second">
+		</menu>
+	</menu>
+	<menu name = "Channels">
+		<item type = global name = "disable music" variable = "debug_disable_music_channel">
+		<item type = global name = "disable dialog" variable = "debug_disable_dialog_channel">
+		<item type = global name = "disable cinematic" variable = "debug_disable_cinematic_channel">
+		<item type = global name = "disable ambient" variable = "debug_disable_ambiant_channel">
+		<item type = global name = "disable vehicles" variable = "debug_disable_vehicle_channel">
+		<item type = global name = "disable weapons" variable = "debug_disable_weapon_channel">
+		<item type = global name = "disable other" variable = "debug_disable_other_channel">
+	</menu>
+	<item type = global name = "debug sound channels" variable = "debug_sound_channels">
+	<item type = command name = "sound channels show all" variable = "sound_class_show_channel \"\" on">
+	<item type = command name = "sound channels hide all" variable = "sound_class_show_channel \"\" off">
+	<menu name = "debug sound channels options">
+		<item type = command name = "show projectile" variable = "sound_class_show_channel projectile on">
+		<item type = command name = "hide projectile" variable = "sound_class_show_channel projectile off">
+		<item type = command name = "show weapons" variable = "sound_class_show_channel weapon on">
+		<item type = command name = "hide weapons" variable = "sound_class_show_channel weapon off">
+		<item type = command name = "show objects" variable = "sound_class_show_channel object on">
+		<item type = command name = "hide objects" variable = "sound_class_show_channel object off">
+		<item type = command name = "show particles" variable = "sound_class_show_channel particle on">
+		<item type = command name = "hide particles" variable = "sound_class_show_channel particle off">
+		<item type = command name = "show units" variable = "sound_class_show_channel unit on">
+		<item type = command name = "show unit dialog" variable = "sound_class_show_channel unit_dialog on">
+		<item type = command name = "hide units" variable = "sound_class_show_channel unit_dialog off">
+		<item type = command name = "hide unit dialog" variable = "sound_class_show_channel unit off">
+		<item type = command name = "show vehicles" variable = "sound_class_show_channel vehicle on">
+		<item type = command name = "hide vehicles" variable = "sound_class_show_channel vehicle off">
+		<item type = command name = "show devices" variable = "sound_class_show_channel device on">
+		<item type = command name = "hide devices" variable = "sound_class_show_channel device off">
+		<item type = command name = "show music" variable = "sound_class_show_channel music on">
+		<item type = command name = "hide music" variable = "sound_class_show_channel music off">
+		<item type = command name = "show ambience" variable = "sound_class_show_channel ambient on">
+		<item type = command name = "hide ambience" variable = "sound_class_show_channel ambient off">
+		<item type = command name = "show dialog" variable = "sound_class_show_channel dialog on">
+		<item type = command name = "hide dialog" variable = "sound_class_show_channel dialog off">
+	</menu>
+	<item type = command name = "all sound enable on" variable = "debug_sounds_enable \"\" on">
+	<item type = command name = "all sound enable off" variable = "debug_sounds_enable \"\" off">
+	<menu name = "sound enable options">
+		<item type = command name = "weapon sounds on" variable = "debug_sounds_enable weapon on">
+		<item type = command name = "weapon sounds off" variable = "debug_sounds_enable weapon off">
+		<item type = command name = "projectile sounds on" variable = "debug_sounds_enable projectile on">
+		<item type = command name = "projectile sounds off" variable = "debug_sounds_enable projectile off">
+		<item type = command name = "object sounds on" variable = "debug_sounds_enable object on">
+		<item type = command name = "object sounds off" variable = "debug_sounds_enable object off">
+		<item type = command name = "particle sounds on" variable = "debug_sounds_enable particle on">
+		<item type = command name = "particle sounds off" variable = "debug_sounds_enable particle off">
+		<item type = command name = "unit sounds on" variable = "debug_sounds_enable unit on">
+		<item type = command name = "unit sounds off" variable = "debug_sounds_enable unit off">
+		<item type = command name = "vehicle sounds on" variable = "debug_sounds_enable vehicle on">
+		<item type = command name = "vehicle sounds off" variable = "debug_sounds_enable vehicle off">
+		<item type = command name = "device sounds on" variable = "debug_sounds_enable device on">
+		<item type = command name = "device sounds off" variable = "debug_sounds_enable device off">
+		<item type = command name = "music sounds on" variable = "debug_sounds_enable music on">
+		<item type = command name = "music sounds off" variable = "debug_sounds_enable music off">
+		<item type = command name = "ambience sounds on" variable = "debug_sounds_enable ambient on">
+		<item type = command name = "ambience sounds off" variable = "debug_sounds_enable ambient off">
+		<item type = command name = "dialog sounds on" variable = "debug_sounds_enable dialog on">
+		<item type = command name = "dialog sounds off" variable = "debug_sounds_enable dialog off">
+		<item type = command name = "unit dialog sounds on" variable = "debug_sounds_enable unit_dialog on">
+		<item type = command name = "unit dialog sounds off" variable = "debug_sounds_enable unit_dialog off">
+	</menu>
+	<item type = global name = "debug sound environment" variable = "debug_sound_environment">
+	<item type = global name = "debug_speaker_output_peak" variable = "debug_speaker_output_peak">
+	<item type = global name = "debug_speaker_output_rms" variable = "debug_speaker_output_rms">
+	<item type = global name = "debug_dialogue" variable = "ai_render_dialogue_records">
+	<item type = global name = "dialogue datamining enabled" variable = "ai_dialogue_datamine_enable">
+	<item type = command name = "cheat_all_weapons" variable = "cheat_all_weapons">
+	<item type = global name = "debug_sound_transmission" variable = "debug_sound_transmission">
+	<item type = global name = "debug_duckers" variable = "debug_duckers">
+</menu>
+
+<menu name = "Menu">
+	<item type = command name = "Reparse Debug Menu" variable = "debug_menu_rebuild">
+</menu>

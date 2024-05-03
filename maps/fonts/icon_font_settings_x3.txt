@@ -1,0 +1,13 @@
+ICONS_ONLY
+
+# fixed sys
+FONT: file=icon_x3\fixedsys-9 icon=ui\font_icons\terminals system=0 height=9 weight=400 italics=0 typeface=Fixedsys charset=0 scale=1
+
+# UI Fonts
+FONT: file=icon_x3\fixedsys-ui icon=ui\font_icons\menu_16 system=0 height=9 weight=400 italics=0 typeface=Fixedsys charset=0 scale=3
+
+# HUD Fonts
+FONT: file=icon_x3\fixedsys-hud icon=ui\font_icons\hud_18 system=0 height=9 weight=400 italics=0 typeface=Fixedsys charset=0 scale=3
+
+# terminal fonts
+FONT: file=icon_x3\fixedsys-term icon=ui\font_icons\terminals_14 system=0 height=9 weight=400 italics=0 typeface=Fixedsys charset=0 scale=3

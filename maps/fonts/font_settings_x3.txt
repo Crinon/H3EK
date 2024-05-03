@@ -1,0 +1,14 @@
+# This is the font import setting for English fonts for Halo 3
+
+# system font (for debug text only)
+FONT: file=en_x3\fixedsys-9 icon=none system=0 height=9 weight=400 italics=0 typeface=Fixedsys charset=0
+
+# HUD and UI fonts
+FONT: file=en_x3\conduit-16 icon=ui\font_icons\menu_16 system=0 height=16 weight=300 italics=0 typeface=ConduitITC^Light charset=0 scale=3
+FONT: file=en_x3\conduit-18 icon=ui\font_icons\hud_18 system=0 height=18 weight=300 italics=0 typeface=ConduitITC^Light charset=0 scale=3
+FONT: file=en_x3\conduit-23 icon=none system=0 height=23 weight=300 italics=0 typeface=ConduitITC^Light charset=0 scale=3
+FONT: file=en_x3\conduit-32 icon=none system=0 height=32 weight=300 italics=0 typeface=ConduitITC^Light charset=0 scale=3
+
+# terminal fonts
+FONT: file=en_x3\larabie-10 icon=none system=0 height=10 weight=400 italics=0 typeface=Larabiefont charset=0 scale=3
+FONT: file=en_x3\pragmata-14 icon=ui\font_icons\terminals_14 system=0 height=14 weight=400 italics=0 typeface=Pragmata charset=0 scale=3

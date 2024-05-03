@@ -1,0 +1,11 @@
+icon\fixedsys-9.font
+icon\fixedsys-ui.font
+icon\fixedsys-ui.font
+icon\fixedsys-ui.font
+icon\fixedsys-ui.font
+icon\fixedsys-ui.font
+icon\fixedsys-hud.font
+icon\fixedsys-term.font
+icon\fixedsys-hud.font
+icon\fixedsys-ui.font
+icon\fixedsys-term.font

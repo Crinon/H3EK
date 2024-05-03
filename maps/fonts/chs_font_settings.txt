@@ -1,0 +1,14 @@
+#This is the font import setting for Simplified Chinese fonts for Halo 3
+
+# system font (for debug text only)
+FONT: file=chs\fixedsys-9 icon=none system=0 height=9 weight=400 italics=0 typeface=Fixedsys charset=0
+
+# UI Fonts
+FONT: file=chs\chs_DFT_R5_conduit-16 icon=ui\font_icons\menu_16 system=0 height=16 weight=400 italics=0 typeface=0ArameH-CHS charset=1 scale=1 EAST-ASIAN extra_space=0 height=16 weight=300 italics=0 typeface=0ArameH-CHS charset=1
+FONT: file=chs\chs_DFT_R5_conduit_hud-16 icon=ui\font_icons\hud_18 system=0 height=16 weight=400 italics=0 typeface=0ArameH-CHS charset=1 scale=1 EAST-ASIAN extra_space=2 height=18 weight=300 italics=0 typeface=0ArameH-CHS charset=1
+FONT: file=chs\chs_DFT_R5_conduit-22 icon=none system=0 height=22 weight=400 italics=0 typeface=0ArameH-CHS charset=1 scale=1 EAST-ASIAN extra_space=0 height=22 weight=300 italics=0 typeface=0ArameH-CHS charset=1
+FONT: file=chs\chs_DFT_R5_conduit-26 icon=none system=0 height=26 weight=400 italics=0 typeface=0ArameH-CHS charset=1 scale=1 EAST-ASIAN extra_space=2 height=26 weight=300 italics=0 typeface=0ArameH-CHS charset=1
+
+# Terminals Fonts
+FONT: file=chs\chs_DFT_R5_terminal-10 icon=none system=0 height=10 weight=400 italics=0 typeface=0ArameH-CHS charset=1 scale=1 EAST-ASIAN extra_space=0 height=10 weight=400 italics=0 typeface=0ArameH-CHS charset=136
+FONT: file=chs\chs_DFT_R5_terminal-14 icon=ui\font_icons\terminals_14 system=0 height=14 weight=400 italics=0 typeface=0ArameH-CHS charset=1 scale=1 EAST-ASIAN extra_space=4 height=14 weight=400 italics=0 typeface=0ArameH-CHS charset=1

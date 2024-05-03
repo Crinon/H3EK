@@ -1,0 +1,3 @@
+call build_fonts_en_x1.bat
+call build_fonts_en_x2.bat
+call build_fonts_en_x3.bat

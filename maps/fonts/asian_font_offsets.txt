@@ -1,0 +1,6 @@
+Korean: none - Kyoung Ho sent a custom built font.
+Japanese:
+(3) jpn_DFGHSMGoth_anti_con-14
+(8) jpn_DFGHSMGoth_anti_con-24
+
+Traditional Chinese:

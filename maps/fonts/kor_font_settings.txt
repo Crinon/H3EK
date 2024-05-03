@@ -1,0 +1,14 @@
+# This file contains all the information for importing the Korean fonts for Halo 3
+
+# system font (for debug text only)
+FONT: file=kor\fixedsys-9 icon=none system=0 height=9 weight=400 italics=0 typeface=Fixedsys charset=0
+
+# UI Fonts
+FONT: file=kor\kor_malgb-15 icon=ui\font_icons\menu_16 system=0 height=15 weight=600 italics=0 typeface=Malgun^Gothic^Game^Semi^Bold charset=1 scale=1
+FONT: file=kor\kor_malgb-16 icon=ui\font_icons\hud_18 system=0 height=16 weight=600 italics=0 typeface=Malgun^Gothic^Game^Semi^Bold charset=1 scale=1
+FONT: file=kor\kor_malgb-21 icon=none system=0 height=21 weight=600 italics=0 typeface=Malgun^Gothic^Game^Semi^Bold charset=1 scale=1
+FONT: file=kor\kor_malgb-22 icon=none system=0 height=22 weight=600 italics=0 typeface=Malgun^Gothic^Game^Semi^Bold charset=1 EAST-ASIAN extra_space=5 height=32 weight=300 italics=0 typeface=ConduitITC^Light charset=1 scale=1
+
+# Terminals Fonts
+FONT: file=kor\larabie-10 icon=none system=0 height=10 weight=400 italics=0 typeface=Larabiefont charset=0 scale=1
+FONT: file=kor\kor_SdAT_term-16 icon=ui\font_icons\terminals_14 system=0 height=16 weight=400 italics=0 typeface=SdArt^CM charset=1 scale=1

@@ -1,0 +1,11 @@
+english
+japanese
+german
+french
+spanish
+mexican
+italian
+korean
+chinese-traditional
+portuguese
+
