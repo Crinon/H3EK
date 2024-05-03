@@ -1,3 +1,3 @@
 Git clone
-Unzip original tags reject erase
+Get H3EK.7z and unzip tags and reject erase prompt
 Go

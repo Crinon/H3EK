@@ -1,0 +1,3 @@
+; scenario_load_all_tags true
+error_geometry_hide_all
+debug_objects 0

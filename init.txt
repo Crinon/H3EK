@@ -1,0 +1,6 @@
+; scenario_load_all_tags true
+; render_thread_enable true
+; debug_objects 1
+error_geometry_hide_all
+cheat_deathless_player true
+;map_name scenarios\solo\03a_oldmombasa\03a_oldmombasa

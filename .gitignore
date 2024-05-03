@@ -1,78 +1,8 @@
 /*.7z
+/reports/*
+/tags/temp_scenario/*
 /fmod/pc/sfx.fsb
 /tags/objects/characters/masterchief/mp_masterchief/mp_masterchief.render_model
 /tags/levels/*
 /tags/cinematics/*
 /tags/sound/*
-
-
-# /*
-# !/data
-# !/tags
-# /tags/*
-# !/tags/ai
-# !/tags/aife
-# !/tags/camera
-# !/tags/cinematics
-# !/tags/cursors
-# !/tags/dragonsoul
-# !/tags/dw3
-# !/tags/effects
-# !/tags/globals
-# !/tags/halo3
-# !/tags/incompetent
-# !/tags/lacks
-# !/tags/ludantes
-# !/tags/multiplayer
-# !/tags/objects
-# !/tags/phanrev
-# !/tags/killtrocity
-# !/tags/spv3
-# !/tags/rasterizer
-# !/tags/objects
-# !/tags/scenarios
-# /tags/scenarios/*
-# !/tags/scenarios/solo
-# /tags/scenarios/solo/*
-# !/tags/scenarios/solo/03a_oldmombasa*
-# !/tags/scenarios/multi
-# /tags/scenarios/multi/*
-# !/tags/scenarios/multi/cyberdyne_h2
-# !/tags/shaders
-# !/tags/stacker
-# !/tags/temp_scenario
-# !/tags/test
-# !/tags/ui
-# !/tags/sound_remastered
-# !/tags/sound
-# /tags/sound/*
-# !/tags/sound/ambience
-# !/tags/sound/characters
-# !/tags/sound/cinematics
-# !/tags/sound/dialog
-# /tags/sound/dialog/*
-# !/tags/sound/dialog/combat
-# !/tags/sound/ambience
-# /shader_cache/*
-# /tags/sound_remastered/*
-# /tags/ui/*
-# !/Campaign_workshop_structure
-
-# !/init.txt
-# !/collect_tag_list.py
-# !/TODO.txt
-# !/versions.txt
-# !/editor_init.txt
-
-# /*.zip
-# /*.7z
-# /*.rar
-# /h2_maps_win64_dx11/*
-# /H2EK/*
-# # C:\Program Files (x86)\Steam\steamapps\common\H2EK\tags\objects\weapons\zoephie\infinite_weapons\objects\weapons\support_high\skewer\zoephs_bitmaps\receiver_lower
-# /gamestate.txt
-# /memusage.txt
-# /debug.txt
-# gamestate.txt
-# memusage.txt
-# debug.txt
