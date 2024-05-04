@@ -2,9 +2,11 @@
 /*.rar
 /*.zip
 /reports/*
-/tags/temp_scenario/*
+/crash_report/*
+/error_snapshot/*
 /fmod/pc/sfx.fsb
 /fmod/pc/english.fsb
+/tags/temp_scenario/*
 /tags/objects/characters/masterchief/mp_masterchief/mp_masterchief.render_model
 /tags/levels/*
 !/tags/levels/flat
