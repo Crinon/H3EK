@@ -1,8 +1,11 @@
 /*.7z
+/*.rar
+/*.zip
 /reports/*
 /tags/temp_scenario/*
 /fmod/pc/sfx.fsb
 /tags/objects/characters/masterchief/mp_masterchief/mp_masterchief.render_model
 /tags/levels/*
+!/tags/levels/flat
 /tags/cinematics/*
 /tags/sound/*
