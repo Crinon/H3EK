@@ -4,8 +4,10 @@
 /reports/*
 /tags/temp_scenario/*
 /fmod/pc/sfx.fsb
+/fmod/pc/english.fsb
 /tags/objects/characters/masterchief/mp_masterchief/mp_masterchief.render_model
 /tags/levels/*
 !/tags/levels/flat
 /tags/cinematics/*
 /tags/sound/*
+/.fsbcache/*

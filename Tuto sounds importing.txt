@@ -1,0 +1,7 @@
+Infinite
+Type weapon_fire
+tool sounds-one-shot hi\sound\weapon_fire weapon_fire -bank:halo_infinite
+Type weapon_reload
+tool sounds-one-shot hi\sound\weapon_reload weapon_reload -bank:halo_infinite
+Type weapon_ready
+tool sounds-one-shot hi\sound\weapon_ready weapon_ready -bank:halo_infinite
