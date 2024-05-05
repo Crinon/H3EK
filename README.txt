@@ -7,3 +7,8 @@ Go
 
 
 override_player_character_type 1
+0 MC campaign
+1 dervish
+2 MP spartan
+3 MP elite
+4 coop elite
